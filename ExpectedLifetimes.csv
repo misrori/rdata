@@ -1,0 +1,2329 @@
+year,region,country,gender,expected_lifetime
+2013,Eastern Mediterranean,Afghanistan,Both sexes,61.25205
+2013,Eastern Mediterranean,Afghanistan,Female,61.97733
+2013,Eastern Mediterranean,Afghanistan,Male,60.51228
+2012,Eastern Mediterranean,Afghanistan,Both sexes,60.0
+2012,Eastern Mediterranean,Afghanistan,Female,61.0
+2012,Eastern Mediterranean,Afghanistan,Male,58.0
+2000,Eastern Mediterranean,Afghanistan,Both sexes,55.0
+2000,Eastern Mediterranean,Afghanistan,Female,56.0
+2000,Eastern Mediterranean,Afghanistan,Male,54.0
+1990,Eastern Mediterranean,Afghanistan,Both sexes,49.0
+1990,Eastern Mediterranean,Afghanistan,Female,50.0
+1990,Eastern Mediterranean,Afghanistan,Male,49.0
+2013,Europe,Albania,Both sexes,74.13
+2013,Europe,Albania,Female,75.508
+2013,Europe,Albania,Male,72.82101
+2012,Europe,Albania,Both sexes,74.0
+2012,Europe,Albania,Female,75.0
+2012,Europe,Albania,Male,73.0
+2000,Europe,Albania,Both sexes,70.0
+2000,Europe,Albania,Female,73.0
+2000,Europe,Albania,Male,68.0
+1990,Europe,Albania,Both sexes,69.0
+1990,Europe,Albania,Female,71.0
+1990,Europe,Albania,Male,67.0
+2013,Africa,Algeria,Both sexes,71.82955
+2013,Africa,Algeria,Female,73.51464
+2013,Africa,Algeria,Male,70.25095
+2012,Africa,Algeria,Both sexes,72.0
+2012,Africa,Algeria,Female,73.0
+2012,Africa,Algeria,Male,70.0
+2000,Africa,Algeria,Both sexes,70.0
+2000,Africa,Algeria,Female,71.0
+2000,Africa,Algeria,Male,68.0
+1990,Africa,Algeria,Both sexes,68.0
+1990,Africa,Algeria,Female,69.0
+1990,Africa,Algeria,Male,66.0
+2013,Europe,Andorra,Both sexes,82.65301
+2013,Europe,Andorra,Female,85.83038
+2013,Europe,Andorra,Male,79.43845
+2012,Europe,Andorra,Both sexes,83.0
+2012,Europe,Andorra,Female,86.0
+2012,Europe,Andorra,Male,79.0
+2000,Europe,Andorra,Both sexes,80.0
+2000,Europe,Andorra,Female,83.0
+2000,Europe,Andorra,Male,76.0
+1990,Europe,Andorra,Both sexes,77.0
+1990,Europe,Andorra,Female,81.0
+1990,Europe,Andorra,Male,74.0
+2013,Africa,Angola,Both sexes,51.74093
+2013,Africa,Angola,Female,53.19343
+2013,Africa,Angola,Male,50.29145
+2012,Africa,Angola,Both sexes,51.0
+2012,Africa,Angola,Female,52.0
+2012,Africa,Angola,Male,50.0
+2000,Africa,Angola,Both sexes,46.0
+2000,Africa,Angola,Female,47.0
+2000,Africa,Angola,Male,44.0
+1990,Africa,Angola,Both sexes,43.0
+1990,Africa,Angola,Female,45.0
+1990,Africa,Angola,Male,41.0
+2013,Americas,Antigua & Barbuda,Both sexes,75.378
+2013,Americas,Antigua & Barbuda,Female,77.32654
+2013,Americas,Antigua & Barbuda,Male,73.43759
+2012,Americas,Antigua & Barbuda,Both sexes,75.0
+2012,Americas,Antigua & Barbuda,Female,77.0
+2012,Americas,Antigua & Barbuda,Male,73.0
+2000,Americas,Antigua & Barbuda,Both sexes,73.0
+2000,Americas,Antigua & Barbuda,Female,74.0
+2000,Americas,Antigua & Barbuda,Male,72.0
+1990,Americas,Antigua & Barbuda,Both sexes,71.0
+1990,Americas,Antigua & Barbuda,Female,72.0
+1990,Americas,Antigua & Barbuda,Male,70.0
+2013,Americas,Argentina,Both sexes,76.31537
+2013,Americas,Argentina,Female,79.61579
+2013,Americas,Argentina,Male,72.90565
+2012,Americas,Argentina,Both sexes,76.0
+2012,Americas,Argentina,Female,79.0
+2012,Americas,Argentina,Male,73.0
+2000,Americas,Argentina,Both sexes,75.0
+2000,Americas,Argentina,Female,78.0
+2000,Americas,Argentina,Male,71.0
+1990,Americas,Argentina,Both sexes,73.0
+1990,Americas,Argentina,Female,76.0
+1990,Americas,Argentina,Male,69.0
+2013,Europe,Armenia,Both sexes,71.02699
+2013,Europe,Armenia,Female,75.20872
+2013,Europe,Armenia,Male,67.32465
+2012,Europe,Armenia,Both sexes,71.0
+2012,Europe,Armenia,Female,75.0
+2012,Europe,Armenia,Male,67.0
+2000,Europe,Armenia,Both sexes,71.0
+2000,Europe,Armenia,Female,74.0
+2000,Europe,Armenia,Male,68.0
+1990,Europe,Armenia,Both sexes,67.0
+1990,Europe,Armenia,Female,71.0
+1990,Europe,Armenia,Male,63.0
+2013,Western Pacific,Australia,Both sexes,82.58784
+2013,Western Pacific,Australia,Female,84.80996
+2013,Western Pacific,Australia,Male,80.37016
+2012,Western Pacific,Australia,Both sexes,83.0
+2012,Western Pacific,Australia,Female,85.0
+2012,Western Pacific,Australia,Male,81.0
+2000,Western Pacific,Australia,Both sexes,80.0
+2000,Western Pacific,Australia,Female,83.0
+2000,Western Pacific,Australia,Male,77.0
+1990,Western Pacific,Australia,Both sexes,77.0
+1990,Western Pacific,Australia,Female,80.0
+1990,Western Pacific,Australia,Male,74.0
+2013,Europe,Austria,Both sexes,81.31606
+2013,Europe,Austria,Female,83.9359
+2013,Europe,Austria,Male,78.56786
+2012,Europe,Austria,Both sexes,81.0
+2012,Europe,Austria,Female,83.0
+2012,Europe,Austria,Male,78.0
+2000,Europe,Austria,Both sexes,78.0
+2000,Europe,Austria,Female,81.0
+2000,Europe,Austria,Male,75.0
+1990,Europe,Austria,Both sexes,76.0
+1990,Europe,Austria,Female,79.0
+1990,Europe,Austria,Male,72.0
+2013,Europe,Azerbaijan,Both sexes,72.4111
+2013,Europe,Azerbaijan,Female,75.14409
+2013,Europe,Azerbaijan,Male,69.63464
+2012,Europe,Azerbaijan,Both sexes,72.0
+2012,Europe,Azerbaijan,Female,75.0
+2012,Europe,Azerbaijan,Male,69.0
+2000,Europe,Azerbaijan,Both sexes,66.0
+2000,Europe,Azerbaijan,Female,69.0
+2000,Europe,Azerbaijan,Male,64.0
+1990,Europe,Azerbaijan,Both sexes,63.0
+1990,Europe,Azerbaijan,Female,66.0
+1990,Europe,Azerbaijan,Male,60.0
+2013,Americas,Bahamas,Both sexes,75.52535
+2013,Americas,Bahamas,Female,78.30492
+2013,Americas,Bahamas,Male,72.60206
+2012,Americas,Bahamas,Both sexes,75.0
+2012,Americas,Bahamas,Female,78.0
+2012,Americas,Bahamas,Male,72.0
+2000,Americas,Bahamas,Both sexes,73.0
+2000,Americas,Bahamas,Female,76.0
+2000,Americas,Bahamas,Male,69.0
+1990,Americas,Bahamas,Both sexes,72.0
+1990,Americas,Bahamas,Female,74.0
+1990,Americas,Bahamas,Male,69.0
+2013,Eastern Mediterranean,Bahrain,Both sexes,77.24355
+2013,Eastern Mediterranean,Bahrain,Female,78.34476
+2013,Eastern Mediterranean,Bahrain,Male,76.38251
+2012,Eastern Mediterranean,Bahrain,Both sexes,77.0
+2012,Eastern Mediterranean,Bahrain,Female,78.0
+2012,Eastern Mediterranean,Bahrain,Male,76.0
+2000,Eastern Mediterranean,Bahrain,Both sexes,74.0
+2000,Eastern Mediterranean,Bahrain,Female,76.0
+2000,Eastern Mediterranean,Bahrain,Male,73.0
+1990,Eastern Mediterranean,Bahrain,Both sexes,73.0
+1990,Eastern Mediterranean,Bahrain,Female,74.0
+1990,Eastern Mediterranean,Bahrain,Male,72.0
+2013,South_East Asia,Bangladesh,Both sexes,70.71071
+2013,South_East Asia,Bangladesh,Female,71.83455
+2013,South_East Asia,Bangladesh,Male,69.71074
+2012,South_East Asia,Bangladesh,Both sexes,70.0
+2012,South_East Asia,Bangladesh,Female,71.0
+2012,South_East Asia,Bangladesh,Male,69.0
+2000,South_East Asia,Bangladesh,Both sexes,65.0
+2000,South_East Asia,Bangladesh,Female,65.0
+2000,South_East Asia,Bangladesh,Male,65.0
+1990,South_East Asia,Bangladesh,Both sexes,60.0
+1990,South_East Asia,Bangladesh,Female,59.0
+1990,South_East Asia,Bangladesh,Male,60.0
+2013,Americas,Barbados,Both sexes,78.14867
+2013,Americas,Barbados,Female,80.94392
+2013,Americas,Barbados,Male,75.23849
+2012,Americas,Barbados,Both sexes,78.0
+2012,Americas,Barbados,Female,81.0
+2012,Americas,Barbados,Male,75.0
+2000,Americas,Barbados,Both sexes,75.0
+2000,Americas,Barbados,Female,78.0
+2000,Americas,Barbados,Male,72.0
+1990,Americas,Barbados,Both sexes,74.0
+1990,Americas,Barbados,Female,77.0
+1990,Americas,Barbados,Male,71.0
+2013,Europe,Belarus,Both sexes,71.80493
+2013,Europe,Belarus,Female,77.86747
+2013,Europe,Belarus,Male,65.80249
+2012,Europe,Belarus,Both sexes,72.0
+2012,Europe,Belarus,Female,78.0
+2012,Europe,Belarus,Male,67.0
+2000,Europe,Belarus,Both sexes,69.0
+2000,Europe,Belarus,Female,75.0
+2000,Europe,Belarus,Male,63.0
+1990,Europe,Belarus,Both sexes,71.0
+1990,Europe,Belarus,Female,76.0
+1990,Europe,Belarus,Male,66.0
+2013,Europe,Belgium,Both sexes,80.48828
+2013,Europe,Belgium,Female,82.96435
+2013,Europe,Belgium,Male,77.94994
+2012,Europe,Belgium,Both sexes,80.0
+2012,Europe,Belgium,Female,83.0
+2012,Europe,Belgium,Male,78.0
+2000,Europe,Belgium,Both sexes,78.0
+2000,Europe,Belgium,Female,81.0
+2000,Europe,Belgium,Male,75.0
+1990,Europe,Belgium,Both sexes,76.0
+1990,Europe,Belgium,Female,79.0
+1990,Europe,Belgium,Male,73.0
+2013,Americas,Belize,Both sexes,75.23206
+2013,Americas,Belize,Female,78.40823
+2013,Americas,Belize,Male,72.32249
+2012,Americas,Belize,Both sexes,75.0
+2012,Americas,Belize,Female,78.0
+2012,Americas,Belize,Male,72.0
+2000,Americas,Belize,Both sexes,72.0
+2000,Americas,Belize,Female,76.0
+2000,Americas,Belize,Male,69.0
+1990,Americas,Belize,Both sexes,71.0
+1990,Americas,Belize,Female,74.0
+1990,Americas,Belize,Male,69.0
+2013,Africa,Benin,Both sexes,58.839
+2013,Africa,Benin,Female,60.21903
+2013,Africa,Benin,Male,57.44178
+2012,Africa,Benin,Both sexes,59.0
+2012,Africa,Benin,Female,60.0
+2012,Africa,Benin,Male,57.0
+2000,Africa,Benin,Both sexes,54.0
+2000,Africa,Benin,Female,56.0
+2000,Africa,Benin,Male,53.0
+1990,Africa,Benin,Both sexes,53.0
+1990,Africa,Benin,Female,56.0
+1990,Africa,Benin,Male,51.0
+2013,South_East Asia,Bhutan,Both sexes,68.38161
+2013,South_East Asia,Bhutan,Female,68.9365
+2013,South_East Asia,Bhutan,Male,67.86552
+2012,South_East Asia,Bhutan,Both sexes,68.0
+2012,South_East Asia,Bhutan,Female,69.0
+2012,South_East Asia,Bhutan,Male,68.0
+2000,South_East Asia,Bhutan,Both sexes,60.0
+2000,South_East Asia,Bhutan,Female,60.0
+2000,South_East Asia,Bhutan,Male,60.0
+1990,South_East Asia,Bhutan,Both sexes,53.0
+1990,South_East Asia,Bhutan,Female,53.0
+1990,South_East Asia,Bhutan,Male,53.0
+2013,Americas,Bolivia,Both sexes,67.5944
+2013,Americas,Bolivia,Female,70.12598
+2013,Americas,Bolivia,Male,65.1235
+2012,Americas,Bolivia,Both sexes,68.0
+2012,Americas,Bolivia,Female,70.0
+2012,Americas,Bolivia,Male,65.0
+2000,Americas,Bolivia,Both sexes,63.0
+2000,Americas,Bolivia,Female,65.0
+2000,Americas,Bolivia,Male,61.0
+1990,Americas,Bolivia,Both sexes,58.0
+1990,Americas,Bolivia,Female,60.0
+1990,Americas,Bolivia,Male,56.0
+2013,Europe,Bosnia-Herzegovina,Both sexes,77.27174
+2013,Europe,Bosnia-Herzegovina,Female,79.73739
+2013,Europe,Bosnia-Herzegovina,Male,74.74554
+2012,Europe,Bosnia-Herzegovina,Both sexes,77.0
+2012,Europe,Bosnia-Herzegovina,Female,80.0
+2012,Europe,Bosnia-Herzegovina,Male,75.0
+2000,Europe,Bosnia-Herzegovina,Both sexes,75.0
+2000,Europe,Bosnia-Herzegovina,Female,78.0
+2000,Europe,Bosnia-Herzegovina,Male,72.0
+1990,Europe,Bosnia-Herzegovina,Both sexes,73.0
+1990,Europe,Bosnia-Herzegovina,Female,75.0
+1990,Europe,Bosnia-Herzegovina,Male,70.0
+2013,Africa,Botswana,Both sexes,64.15195
+2013,Africa,Botswana,Female,65.40547
+2013,Africa,Botswana,Male,63.02669
+2012,Africa,Botswana,Both sexes,62.0
+2012,Africa,Botswana,Female,63.0
+2012,Africa,Botswana,Male,61.0
+2000,Africa,Botswana,Both sexes,47.0
+2000,Africa,Botswana,Female,47.0
+2000,Africa,Botswana,Male,48.0
+1990,Africa,Botswana,Both sexes,65.0
+1990,Africa,Botswana,Female,66.0
+1990,Africa,Botswana,Male,65.0
+2013,Americas,Brazil,Both sexes,75.17133
+2013,Americas,Brazil,Female,78.79631
+2013,Americas,Brazil,Male,71.61015
+2012,Americas,Brazil,Both sexes,74.0
+2012,Americas,Brazil,Female,77.0
+2012,Americas,Brazil,Male,70.0
+2000,Americas,Brazil,Both sexes,71.0
+2000,Americas,Brazil,Female,74.0
+2000,Americas,Brazil,Male,67.0
+1990,Americas,Brazil,Both sexes,66.0
+1990,Americas,Brazil,Female,70.0
+1990,Americas,Brazil,Male,63.0
+2013,Western Pacific,Brunei,Both sexes,77.19981
+2013,Western Pacific,Brunei,Female,78.56667
+2013,Western Pacific,Brunei,Male,75.86967
+2012,Western Pacific,Brunei,Both sexes,77.0
+2012,Western Pacific,Brunei,Female,78.0
+2012,Western Pacific,Brunei,Male,76.0
+2000,Western Pacific,Brunei,Both sexes,76.0
+2000,Western Pacific,Brunei,Female,79.0
+2000,Western Pacific,Brunei,Male,74.0
+1990,Western Pacific,Brunei,Both sexes,73.0
+1990,Western Pacific,Brunei,Female,75.0
+1990,Western Pacific,Brunei,Male,71.0
+2013,Europe,Bulgaria,Both sexes,74.51299
+2013,Europe,Bulgaria,Female,78.02196
+2013,Europe,Bulgaria,Male,71.09362
+2012,Europe,Bulgaria,Both sexes,74.0
+2012,Europe,Bulgaria,Female,78.0
+2012,Europe,Bulgaria,Male,71.0
+2000,Europe,Bulgaria,Both sexes,71.0
+2000,Europe,Bulgaria,Female,75.0
+2000,Europe,Bulgaria,Male,68.0
+1990,Europe,Bulgaria,Both sexes,71.0
+1990,Europe,Bulgaria,Female,75.0
+1990,Europe,Bulgaria,Male,68.0
+2013,Africa,Burkina Faso,Both sexes,58.56517
+2013,Africa,Burkina Faso,Female,59.36742
+2013,Africa,Burkina Faso,Male,57.62969
+2012,Africa,Burkina Faso,Both sexes,58.0
+2012,Africa,Burkina Faso,Female,59.0
+2012,Africa,Burkina Faso,Male,57.0
+2000,Africa,Burkina Faso,Both sexes,49.0
+2000,Africa,Burkina Faso,Female,50.0
+2000,Africa,Burkina Faso,Male,49.0
+1990,Africa,Burkina Faso,Both sexes,50.0
+1990,Africa,Burkina Faso,Female,51.0
+1990,Africa,Burkina Faso,Male,48.0
+2013,Africa,Burundi,Both sexes,56.20937
+2013,Africa,Burundi,Female,57.98148
+2013,Africa,Burundi,Male,54.49982
+2012,Africa,Burundi,Both sexes,56.0
+2012,Africa,Burundi,Female,57.0
+2012,Africa,Burundi,Male,54.0
+2000,Africa,Burundi,Both sexes,48.0
+2000,Africa,Burundi,Female,50.0
+2000,Africa,Burundi,Male,46.0
+1990,Africa,Burundi,Both sexes,49.0
+1990,Africa,Burundi,Female,51.0
+1990,Africa,Burundi,Male,48.0
+2013,Africa,Cabo Verde,Both sexes,74.76584
+2013,Africa,Cabo Verde,Female,78.24407
+2013,Africa,Cabo Verde,Male,71.10728
+2012,Africa,Cabo Verde,Both sexes,74.0
+2012,Africa,Cabo Verde,Female,78.0
+2012,Africa,Cabo Verde,Male,71.0
+2000,Africa,Cabo Verde,Both sexes,70.0
+2000,Africa,Cabo Verde,Female,73.0
+2000,Africa,Cabo Verde,Male,66.0
+1990,Africa,Cabo Verde,Both sexes,66.0
+1990,Africa,Cabo Verde,Female,68.0
+1990,Africa,Cabo Verde,Male,63.0
+2013,Western Pacific,Cambodia,Both sexes,72.61407
+2013,Western Pacific,Cambodia,Female,75.1862
+2013,Western Pacific,Cambodia,Male,69.82875
+2012,Western Pacific,Cambodia,Both sexes,72.0
+2012,Western Pacific,Cambodia,Female,75.0
+2012,Western Pacific,Cambodia,Male,70.0
+2000,Western Pacific,Cambodia,Both sexes,61.0
+2000,Western Pacific,Cambodia,Female,63.0
+2000,Western Pacific,Cambodia,Male,58.0
+1990,Western Pacific,Cambodia,Both sexes,54.0
+1990,Western Pacific,Cambodia,Female,57.0
+1990,Western Pacific,Cambodia,Male,51.0
+2013,Africa,Cameroon,Both sexes,56.57552
+2013,Africa,Cameroon,Female,57.61898
+2013,Africa,Cameroon,Male,55.53561
+2012,Africa,Cameroon,Both sexes,56.0
+2012,Africa,Cameroon,Female,57.0
+2012,Africa,Cameroon,Male,55.0
+2000,Africa,Cameroon,Both sexes,51.0
+2000,Africa,Cameroon,Female,52.0
+2000,Africa,Cameroon,Male,50.0
+1990,Africa,Cameroon,Both sexes,54.0
+1990,Africa,Cameroon,Female,56.0
+1990,Africa,Cameroon,Male,53.0
+2013,Americas,Canada,Both sexes,81.97529
+2013,Americas,Canada,Female,84.01681
+2013,Americas,Canada,Male,79.84743
+2012,Americas,Canada,Both sexes,82.0
+2012,Americas,Canada,Female,84.0
+2012,Americas,Canada,Male,80.0
+2000,Americas,Canada,Both sexes,79.0
+2000,Americas,Canada,Female,82.0
+2000,Americas,Canada,Male,77.0
+1990,Americas,Canada,Both sexes,77.0
+1990,Americas,Canada,Female,81.0
+1990,Americas,Canada,Male,74.0
+2013,Africa,Central African Republic,Both sexes,51.43201
+2013,Africa,Central African Republic,Female,52.38792
+2013,Africa,Central African Republic,Male,50.42319
+2012,Africa,Central African Republic,Both sexes,51.0
+2012,Africa,Central African Republic,Female,52.0
+2012,Africa,Central African Republic,Male,50.0
+2000,Africa,Central African Republic,Both sexes,45.0
+2000,Africa,Central African Republic,Female,46.0
+2000,Africa,Central African Republic,Male,44.0
+1990,Africa,Central African Republic,Both sexes,48.0
+1990,Africa,Central African Republic,Female,50.0
+1990,Africa,Central African Republic,Male,46.0
+2013,Africa,Chad,Both sexes,51.7094
+2013,Africa,Chad,Female,52.65047
+2013,Africa,Chad,Male,50.77394
+2012,Africa,Chad,Both sexes,51.0
+2012,Africa,Chad,Female,52.0
+2012,Africa,Chad,Male,50.0
+2000,Africa,Chad,Both sexes,46.0
+2000,Africa,Chad,Female,47.0
+2000,Africa,Chad,Male,45.0
+1990,Africa,Chad,Both sexes,45.0
+1990,Africa,Chad,Female,47.0
+1990,Africa,Chad,Male,43.0
+2013,Americas,Chile,Both sexes,80.05825
+2013,Americas,Chile,Female,82.88959
+2013,Americas,Chile,Male,77.12041
+2012,Americas,Chile,Both sexes,80.0
+2012,Americas,Chile,Female,83.0
+2012,Americas,Chile,Male,77.0
+2000,Americas,Chile,Both sexes,77.0
+2000,Americas,Chile,Female,80.0
+2000,Americas,Chile,Male,74.0
+1990,Americas,Chile,Both sexes,73.0
+1990,Americas,Chile,Female,76.0
+1990,Americas,Chile,Male,69.0
+2013,Western Pacific,China,Both sexes,75.48225
+2013,Western Pacific,China,Female,76.95574
+2013,Western Pacific,China,Male,74.13388
+2012,Western Pacific,China,Both sexes,75.0
+2012,Western Pacific,China,Female,77.0
+2012,Western Pacific,China,Male,74.0
+2000,Western Pacific,China,Both sexes,71.0
+2000,Western Pacific,China,Female,73.0
+2000,Western Pacific,China,Male,70.0
+1990,Western Pacific,China,Both sexes,69.0
+1990,Western Pacific,China,Female,71.0
+1990,Western Pacific,China,Male,67.0
+2013,Americas,Colombia,Both sexes,78.06821
+2013,Americas,Colombia,Female,81.00733
+2013,Americas,Colombia,Male,75.05208
+2012,Americas,Colombia,Both sexes,79.0
+2012,Americas,Colombia,Female,83.0
+2012,Americas,Colombia,Male,76.0
+2000,Americas,Colombia,Both sexes,74.0
+2000,Americas,Colombia,Female,78.0
+2000,Americas,Colombia,Male,69.0
+1990,Americas,Colombia,Both sexes,71.0
+1990,Americas,Colombia,Female,75.0
+1990,Americas,Colombia,Male,67.0
+2013,Africa,Comoros,Both sexes,61.86594
+2013,Africa,Comoros,Female,63.38517
+2013,Africa,Comoros,Male,60.38524
+2012,Africa,Comoros,Both sexes,62.0
+2012,Africa,Comoros,Female,63.0
+2012,Africa,Comoros,Male,60.0
+2000,Africa,Comoros,Both sexes,59.0
+2000,Africa,Comoros,Female,60.0
+2000,Africa,Comoros,Male,57.0
+1990,Africa,Comoros,Both sexes,56.0
+1990,Africa,Comoros,Female,58.0
+1990,Africa,Comoros,Male,54.0
+2013,Africa,Congo,Both sexes,58.92405
+2013,Africa,Congo,Female,60.33424
+2013,Africa,Congo,Male,57.54251
+2012,Africa,Congo,Both sexes,59.0
+2012,Africa,Congo,Female,60.0
+2012,Africa,Congo,Male,57.0
+2000,Africa,Congo,Both sexes,52.0
+2000,Africa,Congo,Female,53.0
+2000,Africa,Congo,Male,52.0
+1990,Africa,Congo,Both sexes,56.0
+1990,Africa,Congo,Female,58.0
+1990,Africa,Congo,Male,55.0
+2013,Western Pacific,Cook Islands,Both sexes,75.82879
+2013,Western Pacific,Cook Islands,Female,78.27155
+2013,Western Pacific,Cook Islands,Male,73.59647
+2012,Western Pacific,Cook Islands,Both sexes,76.0
+2012,Western Pacific,Cook Islands,Female,78.0
+2012,Western Pacific,Cook Islands,Male,73.0
+2000,Western Pacific,Cook Islands,Both sexes,72.0
+2000,Western Pacific,Cook Islands,Female,75.0
+2000,Western Pacific,Cook Islands,Male,69.0
+1990,Western Pacific,Cook Islands,Both sexes,69.0
+1990,Western Pacific,Cook Islands,Female,72.0
+1990,Western Pacific,Cook Islands,Male,67.0
+2013,Americas,Costa Rica,Both sexes,79.31783
+2013,Americas,Costa Rica,Female,81.45022
+2013,Americas,Costa Rica,Male,77.26762
+2012,Americas,Costa Rica,Both sexes,79.0
+2012,Americas,Costa Rica,Female,81.0
+2012,Americas,Costa Rica,Male,77.0
+2000,Americas,Costa Rica,Both sexes,77.0
+2000,Americas,Costa Rica,Female,79.0
+2000,Americas,Costa Rica,Male,76.0
+1990,Americas,Costa Rica,Both sexes,77.0
+1990,Americas,Costa Rica,Female,78.0
+1990,Americas,Costa Rica,Male,75.0
+2013,Africa,Cote d'Ivoire,Both sexes,53.17685
+2013,Africa,Cote d'Ivoire,Female,53.97916
+2013,Africa,Cote d'Ivoire,Male,52.47257
+2012,Africa,Cote d'Ivoire,Both sexes,53.0
+2012,Africa,Cote d'Ivoire,Female,54.0
+2012,Africa,Cote d'Ivoire,Male,52.0
+2000,Africa,Cote d'Ivoire,Both sexes,48.0
+2000,Africa,Cote d'Ivoire,Female,49.0
+2000,Africa,Cote d'Ivoire,Male,47.0
+1990,Africa,Cote d'Ivoire,Both sexes,51.0
+1990,Africa,Cote d'Ivoire,Female,54.0
+1990,Africa,Cote d'Ivoire,Male,50.0
+2013,Europe,Croatia,Both sexes,78.15862
+2013,Europe,Croatia,Female,81.48102
+2013,Europe,Croatia,Male,74.71254
+2012,Europe,Croatia,Both sexes,78.0
+2012,Europe,Croatia,Female,81.0
+2012,Europe,Croatia,Male,74.0
+2000,Europe,Croatia,Both sexes,74.0
+2000,Europe,Croatia,Female,78.0
+2000,Europe,Croatia,Male,71.0
+1990,Europe,Croatia,Both sexes,73.0
+1990,Europe,Croatia,Female,76.0
+1990,Europe,Croatia,Male,69.0
+2013,Americas,Cuba,Both sexes,78.29336
+2013,Americas,Cuba,Female,80.12782
+2013,Americas,Cuba,Male,76.51842
+2012,Americas,Cuba,Both sexes,79.0
+2012,Americas,Cuba,Female,81.0
+2012,Americas,Cuba,Male,76.0
+2000,Americas,Cuba,Both sexes,77.0
+2000,Americas,Cuba,Female,79.0
+2000,Americas,Cuba,Male,75.0
+1990,Americas,Cuba,Both sexes,74.0
+1990,Americas,Cuba,Female,76.0
+1990,Americas,Cuba,Male,73.0
+2013,Europe,Cyprus,Both sexes,81.88437
+2013,Europe,Cyprus,Female,84.01768
+2013,Europe,Cyprus,Male,79.86022
+2012,Europe,Cyprus,Both sexes,82.0
+2012,Europe,Cyprus,Female,84.0
+2012,Europe,Cyprus,Male,80.0
+2000,Europe,Cyprus,Both sexes,77.0
+2000,Europe,Cyprus,Female,79.0
+2000,Europe,Cyprus,Male,75.0
+1990,Europe,Cyprus,Both sexes,76.0
+1990,Europe,Cyprus,Female,79.0
+1990,Europe,Cyprus,Male,74.0
+2013,Europe,Czech Republic,Both sexes,78.23041
+2013,Europe,Czech Republic,Female,81.24432
+2013,Europe,Czech Republic,Male,75.1638
+2012,Europe,Czech Republic,Both sexes,78.0
+2012,Europe,Czech Republic,Female,81.0
+2012,Europe,Czech Republic,Male,75.0
+2000,Europe,Czech Republic,Both sexes,75.0
+2000,Europe,Czech Republic,Female,78.0
+2000,Europe,Czech Republic,Male,72.0
+1990,Europe,Czech Republic,Both sexes,71.0
+1990,Europe,Czech Republic,Female,75.0
+1990,Europe,Czech Republic,Male,68.0
+2013,South_East Asia,North Korea,Both sexes,69.93345
+2013,South_East Asia,North Korea,Female,73.36373
+2013,South_East Asia,North Korea,Male,66.29032
+2012,South_East Asia,North Korea,Both sexes,70.0
+2012,South_East Asia,North Korea,Female,73.0
+2012,South_East Asia,North Korea,Male,66.0
+2000,South_East Asia,North Korea,Both sexes,65.0
+2000,South_East Asia,North Korea,Female,69.0
+2000,South_East Asia,North Korea,Male,60.0
+1990,South_East Asia,North Korea,Both sexes,70.0
+1990,South_East Asia,North Korea,Female,73.0
+1990,South_East Asia,North Korea,Male,66.0
+2013,Africa,Democratic Republic of the Congo,Both sexes,52.17266
+2013,Africa,Democratic Republic of the Congo,Female,53.85853
+2013,Africa,Democratic Republic of the Congo,Male,50.51458
+2012,Africa,Democratic Republic of the Congo,Both sexes,52.0
+2012,Africa,Democratic Republic of the Congo,Female,53.0
+2012,Africa,Democratic Republic of the Congo,Male,50.0
+2000,Africa,Democratic Republic of the Congo,Both sexes,48.0
+2000,Africa,Democratic Republic of the Congo,Female,50.0
+2000,Africa,Democratic Republic of the Congo,Male,47.0
+1990,Africa,Democratic Republic of the Congo,Both sexes,49.0
+1990,Africa,Democratic Republic of the Congo,Female,51.0
+1990,Africa,Democratic Republic of the Congo,Male,48.0
+2013,Europe,Denmark,Both sexes,79.90733
+2013,Europe,Denmark,Female,81.96322
+2013,Europe,Denmark,Male,77.83004
+2012,Europe,Denmark,Both sexes,80.0
+2012,Europe,Denmark,Female,82.0
+2012,Europe,Denmark,Male,78.0
+2000,Europe,Denmark,Both sexes,77.0
+2000,Europe,Denmark,Female,79.0
+2000,Europe,Denmark,Male,75.0
+1990,Europe,Denmark,Both sexes,75.0
+1990,Europe,Denmark,Female,78.0
+1990,Europe,Denmark,Male,72.0
+2013,Eastern Mediterranean,Djibouti,Both sexes,61.75758
+2013,Eastern Mediterranean,Djibouti,Female,63.23872
+2013,Eastern Mediterranean,Djibouti,Male,60.33304
+2012,Eastern Mediterranean,Djibouti,Both sexes,61.0
+2012,Eastern Mediterranean,Djibouti,Female,63.0
+2012,Eastern Mediterranean,Djibouti,Male,60.0
+2000,Eastern Mediterranean,Djibouti,Both sexes,57.0
+2000,Eastern Mediterranean,Djibouti,Female,59.0
+2000,Eastern Mediterranean,Djibouti,Male,55.0
+1990,Eastern Mediterranean,Djibouti,Both sexes,57.0
+1990,Eastern Mediterranean,Djibouti,Female,59.0
+1990,Eastern Mediterranean,Djibouti,Male,55.0
+2013,Americas,Dominica,Both sexes,74.82867
+2013,Americas,Dominica,Female,77.32977
+2013,Americas,Dominica,Male,72.3895
+2012,Americas,Dominica,Both sexes,75.0
+2012,Americas,Dominica,Female,77.0
+2012,Americas,Dominica,Male,72.0
+2000,Americas,Dominica,Both sexes,74.0
+2000,Americas,Dominica,Female,76.0
+2000,Americas,Dominica,Male,73.0
+1990,Americas,Dominica,Both sexes,74.0
+1990,Americas,Dominica,Female,76.0
+1990,Americas,Dominica,Male,72.0
+2013,Americas,Dominican Republic,Both sexes,73.69259
+2013,Americas,Dominican Republic,Female,74.44215
+2013,Americas,Dominican Republic,Male,72.95848
+2012,Americas,Dominican Republic,Both sexes,77.0
+2012,Americas,Dominican Republic,Female,78.0
+2012,Americas,Dominican Republic,Male,76.0
+2000,Americas,Dominican Republic,Both sexes,73.0
+2000,Americas,Dominican Republic,Female,74.0
+2000,Americas,Dominican Republic,Male,72.0
+1990,Americas,Dominican Republic,Both sexes,69.0
+1990,Americas,Dominican Republic,Female,70.0
+1990,Americas,Dominican Republic,Male,68.0
+2013,Americas,Ecuador,Both sexes,75.74088
+2013,Americas,Ecuador,Female,78.54182
+2013,Americas,Ecuador,Male,73.06906
+2012,Americas,Ecuador,Both sexes,75.0
+2012,Americas,Ecuador,Female,78.0
+2012,Americas,Ecuador,Male,73.0
+2000,Americas,Ecuador,Both sexes,73.0
+2000,Americas,Ecuador,Female,76.0
+2000,Americas,Ecuador,Male,70.0
+1990,Americas,Ecuador,Both sexes,69.0
+1990,Americas,Ecuador,Female,72.0
+1990,Americas,Ecuador,Male,67.0
+2013,Eastern Mediterranean,Egypt,Both sexes,71.34473
+2013,Eastern Mediterranean,Egypt,Female,73.76581
+2013,Eastern Mediterranean,Egypt,Male,68.99655
+2012,Eastern Mediterranean,Egypt,Both sexes,71.0
+2012,Eastern Mediterranean,Egypt,Female,74.0
+2012,Eastern Mediterranean,Egypt,Male,69.0
+2000,Eastern Mediterranean,Egypt,Both sexes,68.0
+2000,Eastern Mediterranean,Egypt,Female,71.0
+2000,Eastern Mediterranean,Egypt,Male,66.0
+1990,Eastern Mediterranean,Egypt,Both sexes,65.0
+1990,Eastern Mediterranean,Egypt,Female,67.0
+1990,Eastern Mediterranean,Egypt,Male,63.0
+2013,Americas,El Salvador,Both sexes,72.56444
+2013,Americas,El Salvador,Female,76.83163
+2013,Americas,El Salvador,Male,67.9398
+2012,Americas,El Salvador,Both sexes,72.0
+2012,Americas,El Salvador,Female,77.0
+2012,Americas,El Salvador,Male,68.0
+2000,Americas,El Salvador,Both sexes,70.0
+2000,Americas,El Salvador,Female,74.0
+2000,Americas,El Salvador,Male,66.0
+1990,Americas,El Salvador,Both sexes,65.0
+1990,Americas,El Salvador,Female,70.0
+1990,Americas,El Salvador,Male,61.0
+2013,Africa,Equatorial Guinea,Both sexes,55.93278
+2013,Africa,Equatorial Guinea,Female,57.42743
+2013,Africa,Equatorial Guinea,Male,54.6199
+2012,Africa,Equatorial Guinea,Both sexes,55.0
+2012,Africa,Equatorial Guinea,Female,57.0
+2012,Africa,Equatorial Guinea,Male,54.0
+2000,Africa,Equatorial Guinea,Both sexes,50.0
+2000,Africa,Equatorial Guinea,Female,52.0
+2000,Africa,Equatorial Guinea,Male,49.0
+1990,Africa,Equatorial Guinea,Both sexes,48.0
+1990,Africa,Equatorial Guinea,Female,49.0
+1990,Africa,Equatorial Guinea,Male,46.0
+2013,Africa,Eritrea,Both sexes,63.85941
+2013,Africa,Eritrea,Female,66.31112
+2013,Africa,Eritrea,Male,61.3238
+2012,Africa,Eritrea,Both sexes,63.0
+2012,Africa,Eritrea,Female,66.0
+2012,Africa,Eritrea,Male,61.0
+2000,Africa,Eritrea,Both sexes,45.0
+2000,Africa,Eritrea,Female,54.0
+2000,Africa,Eritrea,Male,39.0
+1990,Africa,Eritrea,Both sexes,48.0
+1990,Africa,Eritrea,Female,50.0
+1990,Africa,Eritrea,Male,46.0
+2013,Europe,Estonia,Both sexes,76.89989
+2013,Europe,Estonia,Female,81.69001
+2013,Europe,Estonia,Male,71.65508
+2012,Europe,Estonia,Both sexes,77.0
+2012,Europe,Estonia,Female,81.0
+2012,Europe,Estonia,Male,71.0
+2000,Europe,Estonia,Both sexes,71.0
+2000,Europe,Estonia,Female,76.0
+2000,Europe,Estonia,Male,65.0
+1990,Europe,Estonia,Both sexes,70.0
+1990,Europe,Estonia,Female,75.0
+1990,Europe,Estonia,Male,64.0
+2013,Africa,Ethiopia,Both sexes,64.67994
+2013,Africa,Ethiopia,Female,66.35128
+2013,Africa,Ethiopia,Male,63.04877
+2012,Africa,Ethiopia,Both sexes,64.0
+2012,Africa,Ethiopia,Female,65.0
+2012,Africa,Ethiopia,Male,62.0
+2000,Africa,Ethiopia,Both sexes,51.0
+2000,Africa,Ethiopia,Female,53.0
+2000,Africa,Ethiopia,Male,50.0
+1990,Africa,Ethiopia,Both sexes,45.0
+1990,Africa,Ethiopia,Female,48.0
+1990,Africa,Ethiopia,Male,42.0
+2013,Western Pacific,Fiji,Both sexes,69.56511
+2013,Western Pacific,Fiji,Female,72.77146
+2013,Western Pacific,Fiji,Male,66.73721
+2012,Western Pacific,Fiji,Both sexes,69.0
+2012,Western Pacific,Fiji,Female,73.0
+2012,Western Pacific,Fiji,Male,67.0
+2000,Western Pacific,Fiji,Both sexes,68.0
+2000,Western Pacific,Fiji,Female,70.0
+2000,Western Pacific,Fiji,Male,65.0
+1990,Western Pacific,Fiji,Both sexes,66.0
+1990,Western Pacific,Fiji,Female,68.0
+1990,Western Pacific,Fiji,Male,64.0
+2013,Europe,Finland,Both sexes,80.78438
+2013,Europe,Finland,Female,83.83178
+2013,Europe,Finland,Male,77.69308
+2012,Europe,Finland,Both sexes,81.0
+2012,Europe,Finland,Female,84.0
+2012,Europe,Finland,Male,78.0
+2000,Europe,Finland,Both sexes,78.0
+2000,Europe,Finland,Female,81.0
+2000,Europe,Finland,Male,74.0
+1990,Europe,Finland,Both sexes,75.0
+1990,Europe,Finland,Female,79.0
+1990,Europe,Finland,Male,71.0
+2013,Europe,France,Both sexes,82.01347
+2013,Europe,France,Female,85.17708
+2013,Europe,France,Male,78.67273
+2012,Europe,France,Both sexes,82.0
+2012,Europe,France,Female,85.0
+2012,Europe,France,Male,79.0
+2000,Europe,France,Both sexes,79.0
+2000,Europe,France,Female,83.0
+2000,Europe,France,Male,75.0
+1990,Europe,France,Both sexes,78.0
+1990,Europe,France,Female,82.0
+1990,Europe,France,Male,73.0
+2013,Africa,Gabon,Both sexes,63.65686
+2013,Africa,Gabon,Female,65.41142
+2013,Africa,Gabon,Male,61.96862
+2012,Africa,Gabon,Both sexes,63.0
+2012,Africa,Gabon,Female,64.0
+2012,Africa,Gabon,Male,62.0
+2000,Africa,Gabon,Both sexes,59.0
+2000,Africa,Gabon,Female,60.0
+2000,Africa,Gabon,Male,59.0
+1990,Africa,Gabon,Both sexes,61.0
+1990,Africa,Gabon,Female,63.0
+1990,Africa,Gabon,Male,60.0
+2013,Africa,Gambia,Both sexes,61.22207
+2013,Africa,Gambia,Female,62.84832
+2013,Africa,Gambia,Male,59.66103
+2012,Africa,Gambia,Both sexes,61.0
+2012,Africa,Gambia,Female,63.0
+2012,Africa,Gambia,Male,59.0
+2000,Africa,Gambia,Both sexes,56.0
+2000,Africa,Gambia,Female,58.0
+2000,Africa,Gambia,Male,55.0
+1990,Africa,Gambia,Both sexes,52.0
+1990,Africa,Gambia,Female,53.0
+1990,Africa,Gambia,Male,50.0
+2013,Europe,Georgia,Both sexes,74.43595
+2013,Europe,Georgia,Female,77.99349
+2013,Europe,Georgia,Male,70.62089
+2012,Europe,Georgia,Both sexes,74.0
+2012,Europe,Georgia,Female,78.0
+2012,Europe,Georgia,Male,70.0
+2000,Europe,Georgia,Both sexes,72.0
+2000,Europe,Georgia,Female,76.0
+2000,Europe,Georgia,Male,68.0
+1990,Europe,Georgia,Both sexes,71.0
+1990,Europe,Georgia,Female,75.0
+1990,Europe,Georgia,Male,67.0
+2013,Europe,Germany,Both sexes,80.94221
+2013,Europe,Germany,Female,83.27878
+2013,Europe,Germany,Male,78.5491
+2012,Europe,Germany,Both sexes,81.0
+2012,Europe,Germany,Female,83.0
+2012,Europe,Germany,Male,78.0
+2000,Europe,Germany,Both sexes,78.0
+2000,Europe,Germany,Female,81.0
+2000,Europe,Germany,Male,75.0
+1990,Europe,Germany,Both sexes,76.0
+1990,Europe,Germany,Female,79.0
+1990,Europe,Germany,Male,72.0
+2013,Africa,Ghana,Both sexes,62.80416
+2013,Africa,Ghana,Female,64.05882
+2013,Africa,Ghana,Male,61.52397
+2012,Africa,Ghana,Both sexes,62.0
+2012,Africa,Ghana,Female,64.0
+2012,Africa,Ghana,Male,61.0
+2000,Africa,Ghana,Both sexes,58.0
+2000,Africa,Ghana,Female,59.0
+2000,Africa,Ghana,Male,57.0
+1990,Africa,Ghana,Both sexes,57.0
+1990,Africa,Ghana,Female,58.0
+1990,Africa,Ghana,Male,55.0
+2013,Europe,Greece,Both sexes,81.26017
+2013,Europe,Greece,Female,83.92238
+2013,Europe,Greece,Male,78.62629
+2012,Europe,Greece,Both sexes,81.0
+2012,Europe,Greece,Female,83.0
+2012,Europe,Greece,Male,78.0
+2000,Europe,Greece,Both sexes,78.0
+2000,Europe,Greece,Female,81.0
+2000,Europe,Greece,Male,76.0
+1990,Europe,Greece,Both sexes,77.0
+1990,Europe,Greece,Female,80.0
+1990,Europe,Greece,Male,75.0
+2013,Americas,Grenada,Both sexes,73.27039
+2013,Americas,Grenada,Female,77.41962
+2013,Americas,Grenada,Male,69.52154
+2012,Americas,Grenada,Both sexes,73.0
+2012,Americas,Grenada,Female,77.0
+2012,Americas,Grenada,Male,69.0
+2000,Americas,Grenada,Both sexes,73.0
+2000,Americas,Grenada,Female,76.0
+2000,Americas,Grenada,Male,70.0
+1990,Americas,Grenada,Both sexes,70.0
+1990,Americas,Grenada,Female,74.0
+1990,Americas,Grenada,Male,67.0
+2013,Americas,Guatemala,Both sexes,71.96651
+2013,Americas,Guatemala,Female,75.41262
+2013,Americas,Guatemala,Male,68.47187
+2012,Americas,Guatemala,Both sexes,72.0
+2012,Americas,Guatemala,Female,75.0
+2012,Americas,Guatemala,Male,68.0
+2000,Americas,Guatemala,Both sexes,68.0
+2000,Americas,Guatemala,Female,71.0
+2000,Americas,Guatemala,Male,64.0
+1990,Americas,Guatemala,Both sexes,62.0
+1990,Americas,Guatemala,Female,65.0
+1990,Americas,Guatemala,Male,60.0
+2013,Africa,Guinea,Both sexes,58.31797
+2013,Africa,Guinea,Female,59.30968
+2013,Africa,Guinea,Male,57.32817
+2012,Africa,Guinea,Both sexes,58.0
+2012,Africa,Guinea,Female,59.0
+2012,Africa,Guinea,Male,57.0
+2000,Africa,Guinea,Both sexes,51.0
+2000,Africa,Guinea,Female,52.0
+2000,Africa,Guinea,Male,50.0
+1990,Africa,Guinea,Both sexes,47.0
+1990,Africa,Guinea,Female,48.0
+1990,Africa,Guinea,Male,46.0
+2013,Africa,Guinea-Bissau,Both sexes,53.89736
+2013,Africa,Guinea-Bissau,Female,55.33135
+2013,Africa,Guinea-Bissau,Male,52.50932
+2012,Africa,Guinea-Bissau,Both sexes,54.0
+2012,Africa,Guinea-Bissau,Female,56.0
+2012,Africa,Guinea-Bissau,Male,53.0
+2000,Africa,Guinea-Bissau,Both sexes,52.0
+2000,Africa,Guinea-Bissau,Female,53.0
+2000,Africa,Guinea-Bissau,Male,51.0
+1990,Africa,Guinea-Bissau,Both sexes,49.0
+1990,Africa,Guinea-Bissau,Female,52.0
+1990,Africa,Guinea-Bissau,Male,47.0
+2013,Americas,Guyana,Both sexes,63.53513
+2013,Americas,Guyana,Female,67.03544
+2013,Americas,Guyana,Male,60.11777
+2012,Americas,Guyana,Both sexes,63.0
+2012,Americas,Guyana,Female,67.0
+2012,Americas,Guyana,Male,60.0
+2000,Americas,Guyana,Both sexes,65.0
+2000,Americas,Guyana,Female,67.0
+2000,Americas,Guyana,Male,62.0
+1990,Americas,Guyana,Both sexes,63.0
+1990,Americas,Guyana,Female,67.0
+1990,Americas,Guyana,Male,59.0
+2013,Americas,Haiti,Both sexes,62.75648
+2013,Americas,Haiti,Female,64.17588
+2013,Americas,Haiti,Male,61.33219
+2012,Americas,Haiti,Both sexes,62.0
+2012,Americas,Haiti,Female,64.0
+2012,Americas,Haiti,Male,61.0
+2000,Americas,Haiti,Both sexes,56.0
+2000,Americas,Haiti,Female,57.0
+2000,Americas,Haiti,Male,55.0
+1990,Americas,Haiti,Both sexes,54.0
+1990,Americas,Haiti,Female,56.0
+1990,Americas,Haiti,Male,52.0
+2013,Americas,Honduras,Both sexes,74.44133
+2013,Americas,Honduras,Female,76.86607
+2013,Americas,Honduras,Male,72.10799
+2012,Americas,Honduras,Both sexes,74.0
+2012,Americas,Honduras,Female,77.0
+2012,Americas,Honduras,Male,72.0
+2000,Americas,Honduras,Both sexes,71.0
+2000,Americas,Honduras,Female,73.0
+2000,Americas,Honduras,Male,69.0
+1990,Americas,Honduras,Both sexes,67.0
+1990,Americas,Honduras,Female,69.0
+1990,Americas,Honduras,Male,65.0
+2013,Europe,Hungary,Both sexes,75.21944
+2013,Europe,Hungary,Female,78.83713
+2013,Europe,Hungary,Male,71.39877
+2012,Europe,Hungary,Both sexes,75.0
+2012,Europe,Hungary,Female,79.0
+2012,Europe,Hungary,Male,71.0
+2000,Europe,Hungary,Both sexes,72.0
+2000,Europe,Hungary,Female,76.0
+2000,Europe,Hungary,Male,68.0
+1990,Europe,Hungary,Both sexes,69.0
+1990,Europe,Hungary,Female,74.0
+1990,Europe,Hungary,Male,65.0
+2013,Europe,Iceland,Both sexes,82.43079
+2013,Europe,Iceland,Female,84.17025
+2013,Europe,Iceland,Male,80.68805
+2012,Europe,Iceland,Both sexes,82.0
+2012,Europe,Iceland,Female,84.0
+2012,Europe,Iceland,Male,81.0
+2000,Europe,Iceland,Both sexes,80.0
+2000,Europe,Iceland,Female,82.0
+2000,Europe,Iceland,Male,78.0
+1990,Europe,Iceland,Both sexes,78.0
+1990,Europe,Iceland,Female,81.0
+1990,Europe,Iceland,Male,75.0
+2013,South_East Asia,India,Both sexes,66.39526
+2013,South_East Asia,India,Female,68.22176
+2013,South_East Asia,India,Male,64.73003
+2012,South_East Asia,India,Both sexes,66.0
+2012,South_East Asia,India,Female,68.0
+2012,South_East Asia,India,Male,64.0
+2000,South_East Asia,India,Both sexes,62.0
+2000,South_East Asia,India,Female,63.0
+2000,South_East Asia,India,Male,61.0
+1990,South_East Asia,India,Both sexes,58.0
+1990,South_East Asia,India,Female,58.0
+1990,South_East Asia,India,Male,57.0
+2013,South_East Asia,Indonesia,Both sexes,70.76871
+2013,South_East Asia,Indonesia,Female,72.8338
+2013,South_East Asia,Indonesia,Male,68.77162
+2012,South_East Asia,Indonesia,Both sexes,71.0
+2012,South_East Asia,Indonesia,Female,73.0
+2012,South_East Asia,Indonesia,Male,69.0
+2000,South_East Asia,Indonesia,Both sexes,67.0
+2000,South_East Asia,Indonesia,Female,69.0
+2000,South_East Asia,Indonesia,Male,65.0
+1990,South_East Asia,Indonesia,Both sexes,62.0
+1990,South_East Asia,Indonesia,Female,64.0
+1990,South_East Asia,Indonesia,Male,60.0
+2013,Eastern Mediterranean,Iran,Both sexes,74.26825
+2013,Eastern Mediterranean,Iran,Female,76.1561
+2013,Eastern Mediterranean,Iran,Male,72.48512
+2012,Eastern Mediterranean,Iran,Both sexes,74.0
+2012,Eastern Mediterranean,Iran,Female,76.0
+2012,Eastern Mediterranean,Iran,Male,72.0
+2000,Eastern Mediterranean,Iran,Both sexes,70.0
+2000,Eastern Mediterranean,Iran,Female,71.0
+2000,Eastern Mediterranean,Iran,Male,69.0
+1990,Eastern Mediterranean,Iran,Both sexes,64.0
+1990,Eastern Mediterranean,Iran,Female,64.0
+1990,Eastern Mediterranean,Iran,Male,63.0
+2013,Eastern Mediterranean,Iraq,Both sexes,70.36568
+2013,Eastern Mediterranean,Iraq,Female,73.7657
+2013,Eastern Mediterranean,Iraq,Male,67.17512
+2012,Eastern Mediterranean,Iraq,Both sexes,70.0
+2012,Eastern Mediterranean,Iraq,Female,74.0
+2012,Eastern Mediterranean,Iraq,Male,66.0
+2000,Eastern Mediterranean,Iraq,Both sexes,71.0
+2000,Eastern Mediterranean,Iraq,Female,73.0
+2000,Eastern Mediterranean,Iraq,Male,68.0
+1990,Eastern Mediterranean,Iraq,Both sexes,69.0
+1990,Eastern Mediterranean,Iraq,Female,71.0
+1990,Eastern Mediterranean,Iraq,Male,67.0
+2013,Europe,Ireland,Both sexes,81.31725
+2013,Europe,Ireland,Female,83.44998
+2013,Europe,Ireland,Male,79.12672
+2012,Europe,Ireland,Both sexes,81.0
+2012,Europe,Ireland,Female,83.0
+2012,Europe,Ireland,Male,79.0
+2000,Europe,Ireland,Both sexes,77.0
+2000,Europe,Ireland,Female,79.0
+2000,Europe,Ireland,Male,74.0
+1990,Europe,Ireland,Both sexes,75.0
+1990,Europe,Ireland,Female,78.0
+1990,Europe,Ireland,Male,72.0
+2013,Europe,Israel,Both sexes,82.4614
+2013,Europe,Israel,Female,84.28536
+2013,Europe,Israel,Male,80.50286
+2012,Europe,Israel,Both sexes,82.0
+2012,Europe,Israel,Female,84.0
+2012,Europe,Israel,Male,80.0
+2000,Europe,Israel,Both sexes,79.0
+2000,Europe,Israel,Female,81.0
+2000,Europe,Israel,Male,77.0
+1990,Europe,Israel,Both sexes,77.0
+1990,Europe,Israel,Female,79.0
+1990,Europe,Israel,Male,75.0
+2013,Europe,Italy,Both sexes,82.86323
+2013,Europe,Italy,Female,85.19691
+2013,Europe,Italy,Male,80.34048
+2012,Europe,Italy,Both sexes,83.0
+2012,Europe,Italy,Female,85.0
+2012,Europe,Italy,Male,80.0
+2000,Europe,Italy,Both sexes,80.0
+2000,Europe,Italy,Female,83.0
+2000,Europe,Italy,Male,77.0
+1990,Europe,Italy,Both sexes,77.0
+1990,Europe,Italy,Female,80.0
+1990,Europe,Italy,Male,74.0
+2013,Americas,Jamaica,Both sexes,74.43981
+2013,Americas,Jamaica,Female,77.14958
+2013,Americas,Jamaica,Male,71.79724
+2012,Americas,Jamaica,Both sexes,74.0
+2012,Americas,Jamaica,Female,77.0
+2012,Americas,Jamaica,Male,72.0
+2000,Americas,Jamaica,Both sexes,71.0
+2000,Americas,Jamaica,Female,75.0
+2000,Americas,Jamaica,Male,68.0
+1990,Americas,Jamaica,Both sexes,71.0
+1990,Americas,Jamaica,Female,74.0
+1990,Americas,Jamaica,Male,69.0
+2013,Western Pacific,Japan,Both sexes,83.73987
+2013,Western Pacific,Japan,Female,87.15457
+2013,Western Pacific,Japan,Male,80.21288
+2012,Western Pacific,Japan,Both sexes,84.0
+2012,Western Pacific,Japan,Female,87.0
+2012,Western Pacific,Japan,Male,80.0
+2000,Western Pacific,Japan,Both sexes,81.0
+2000,Western Pacific,Japan,Female,85.0
+2000,Western Pacific,Japan,Male,78.0
+1990,Western Pacific,Japan,Both sexes,79.0
+1990,Western Pacific,Japan,Female,82.0
+1990,Western Pacific,Japan,Male,76.0
+2013,Eastern Mediterranean,Jordan,Both sexes,73.86859
+2013,Eastern Mediterranean,Jordan,Female,75.57657
+2013,Eastern Mediterranean,Jordan,Male,72.33427
+2012,Eastern Mediterranean,Jordan,Both sexes,74.0
+2012,Eastern Mediterranean,Jordan,Female,75.0
+2012,Eastern Mediterranean,Jordan,Male,72.0
+2000,Eastern Mediterranean,Jordan,Both sexes,72.0
+2000,Eastern Mediterranean,Jordan,Female,73.0
+2000,Eastern Mediterranean,Jordan,Male,70.0
+1990,Eastern Mediterranean,Jordan,Both sexes,70.0
+1990,Eastern Mediterranean,Jordan,Female,71.0
+1990,Eastern Mediterranean,Jordan,Male,68.0
+2013,Europe,Kazakhstan,Both sexes,67.95763
+2013,Europe,Kazakhstan,Female,72.52506
+2013,Europe,Kazakhstan,Male,63.382
+2012,Europe,Kazakhstan,Both sexes,68.0
+2012,Europe,Kazakhstan,Female,72.0
+2012,Europe,Kazakhstan,Male,63.0
+2000,Europe,Kazakhstan,Both sexes,63.0
+2000,Europe,Kazakhstan,Female,68.0
+2000,Europe,Kazakhstan,Male,58.0
+1990,Europe,Kazakhstan,Both sexes,66.0
+1990,Europe,Kazakhstan,Female,70.0
+1990,Europe,Kazakhstan,Male,61.0
+2013,Africa,Kenya,Both sexes,61.49628
+2013,Africa,Kenya,Female,63.1408
+2013,Africa,Kenya,Male,59.86501
+2012,Africa,Kenya,Both sexes,61.0
+2012,Africa,Kenya,Female,62.0
+2012,Africa,Kenya,Male,59.0
+2000,Africa,Kenya,Both sexes,52.0
+2000,Africa,Kenya,Female,53.0
+2000,Africa,Kenya,Male,51.0
+1990,Africa,Kenya,Both sexes,60.0
+1990,Africa,Kenya,Female,62.0
+1990,Africa,Kenya,Male,58.0
+2013,Western Pacific,Kiribati,Both sexes,66.80363
+2013,Western Pacific,Kiribati,Female,69.36337
+2013,Western Pacific,Kiribati,Male,64.48155
+2012,Western Pacific,Kiribati,Both sexes,66.0
+2012,Western Pacific,Kiribati,Female,69.0
+2012,Western Pacific,Kiribati,Male,64.0
+2000,Western Pacific,Kiribati,Both sexes,64.0
+2000,Western Pacific,Kiribati,Female,66.0
+2000,Western Pacific,Kiribati,Male,61.0
+1990,Western Pacific,Kiribati,Both sexes,60.0
+1990,Western Pacific,Kiribati,Female,62.0
+1990,Western Pacific,Kiribati,Male,57.0
+2013,Eastern Mediterranean,Kuwait,Both sexes,78.38586
+2013,Eastern Mediterranean,Kuwait,Female,78.71661
+2013,Eastern Mediterranean,Kuwait,Male,78.11771
+2012,Eastern Mediterranean,Kuwait,Both sexes,78.0
+2012,Eastern Mediterranean,Kuwait,Female,79.0
+2012,Eastern Mediterranean,Kuwait,Male,78.0
+2000,Eastern Mediterranean,Kuwait,Both sexes,75.0
+2000,Eastern Mediterranean,Kuwait,Female,76.0
+2000,Eastern Mediterranean,Kuwait,Male,74.0
+1990,Eastern Mediterranean,Kuwait,Both sexes,73.0
+1990,Eastern Mediterranean,Kuwait,Female,74.0
+1990,Eastern Mediterranean,Kuwait,Male,73.0
+2013,Europe,Kyrgyzstan,Both sexes,69.41342
+2013,Europe,Kyrgyzstan,Female,73.1172
+2013,Europe,Kyrgyzstan,Male,65.74464
+2012,Europe,Kyrgyzstan,Both sexes,69.0
+2012,Europe,Kyrgyzstan,Female,73.0
+2012,Europe,Kyrgyzstan,Male,66.0
+2000,Europe,Kyrgyzstan,Both sexes,66.0
+2000,Europe,Kyrgyzstan,Female,69.0
+2000,Europe,Kyrgyzstan,Male,62.0
+1990,Europe,Kyrgyzstan,Both sexes,66.0
+1990,Europe,Kyrgyzstan,Female,69.0
+1990,Europe,Kyrgyzstan,Male,62.0
+2013,Western Pacific,Laos,Both sexes,66.36477
+2013,Western Pacific,Laos,Female,67.87583
+2013,Western Pacific,Laos,Male,64.823
+2012,Western Pacific,Laos,Both sexes,66.0
+2012,Western Pacific,Laos,Female,67.0
+2012,Western Pacific,Laos,Male,64.0
+2000,Western Pacific,Laos,Both sexes,59.0
+2000,Western Pacific,Laos,Female,61.0
+2000,Western Pacific,Laos,Male,58.0
+1990,Western Pacific,Laos,Both sexes,53.0
+1990,Western Pacific,Laos,Female,54.0
+1990,Western Pacific,Laos,Male,51.0
+2013,Europe,Latvia,Both sexes,74.1265
+2013,Europe,Latvia,Female,78.65192
+2013,Europe,Latvia,Male,69.14972
+2012,Europe,Latvia,Both sexes,74.0
+2012,Europe,Latvia,Female,79.0
+2012,Europe,Latvia,Male,69.0
+2000,Europe,Latvia,Both sexes,70.0
+2000,Europe,Latvia,Female,76.0
+2000,Europe,Latvia,Male,65.0
+1990,Europe,Latvia,Both sexes,69.0
+1990,Europe,Latvia,Female,74.0
+1990,Europe,Latvia,Male,64.0
+2013,Eastern Mediterranean,Lebanon,Both sexes,79.87961
+2013,Eastern Mediterranean,Lebanon,Female,82.17039
+2013,Eastern Mediterranean,Lebanon,Male,77.94059
+2012,Eastern Mediterranean,Lebanon,Both sexes,80.0
+2012,Eastern Mediterranean,Lebanon,Female,82.0
+2012,Eastern Mediterranean,Lebanon,Male,78.0
+2000,Eastern Mediterranean,Lebanon,Both sexes,74.0
+2000,Eastern Mediterranean,Lebanon,Female,76.0
+2000,Eastern Mediterranean,Lebanon,Male,73.0
+1990,Eastern Mediterranean,Lebanon,Both sexes,67.0
+1990,Eastern Mediterranean,Lebanon,Female,71.0
+1990,Eastern Mediterranean,Lebanon,Male,64.0
+2013,Africa,Lesotho,Both sexes,50.36242
+2013,Africa,Lesotho,Female,52.24315
+2013,Africa,Lesotho,Male,48.33762
+2012,Africa,Lesotho,Both sexes,50.0
+2012,Africa,Lesotho,Female,52.0
+2012,Africa,Lesotho,Male,49.0
+2000,Africa,Lesotho,Both sexes,48.0
+2000,Africa,Lesotho,Female,49.0
+2000,Africa,Lesotho,Male,47.0
+1990,Africa,Lesotho,Both sexes,61.0
+1990,Africa,Lesotho,Female,62.0
+1990,Africa,Lesotho,Male,59.0
+2013,Africa,Liberia,Both sexes,62.02602
+2013,Africa,Liberia,Female,63.29146
+2013,Africa,Liberia,Male,60.77288
+2012,Africa,Liberia,Both sexes,62.0
+2012,Africa,Liberia,Female,63.0
+2012,Africa,Liberia,Male,60.0
+2000,Africa,Liberia,Both sexes,51.0
+2000,Africa,Liberia,Female,52.0
+2000,Africa,Liberia,Male,50.0
+1990,Africa,Liberia,Both sexes,42.0
+1990,Africa,Liberia,Female,46.0
+1990,Africa,Liberia,Male,39.0
+2013,Eastern Mediterranean,Libya,Both sexes,75.33909
+2013,Eastern Mediterranean,Libya,Female,77.34592
+2013,Eastern Mediterranean,Libya,Male,73.45908
+2012,Eastern Mediterranean,Libya,Both sexes,75.0
+2012,Eastern Mediterranean,Libya,Female,77.0
+2012,Eastern Mediterranean,Libya,Male,73.0
+2000,Eastern Mediterranean,Libya,Both sexes,72.0
+2000,Eastern Mediterranean,Libya,Female,74.0
+2000,Eastern Mediterranean,Libya,Male,70.0
+1990,Eastern Mediterranean,Libya,Both sexes,68.0
+1990,Eastern Mediterranean,Libya,Female,70.0
+1990,Eastern Mediterranean,Libya,Male,67.0
+2013,Europe,Lithuania,Both sexes,74.30048
+2013,Europe,Lithuania,Female,79.49781
+2013,Europe,Lithuania,Male,68.73787
+2012,Europe,Lithuania,Both sexes,74.0
+2012,Europe,Lithuania,Female,80.0
+2012,Europe,Lithuania,Male,68.0
+2000,Europe,Lithuania,Both sexes,72.0
+2000,Europe,Lithuania,Female,78.0
+2000,Europe,Lithuania,Male,67.0
+1990,Europe,Lithuania,Both sexes,71.0
+1990,Europe,Lithuania,Female,76.0
+1990,Europe,Lithuania,Male,66.0
+2013,Europe,Luxembourg,Both sexes,82.16427
+2013,Europe,Luxembourg,Female,84.22133
+2013,Europe,Luxembourg,Male,79.93364
+2012,Europe,Luxembourg,Both sexes,82.0
+2012,Europe,Luxembourg,Female,84.0
+2012,Europe,Luxembourg,Male,80.0
+2000,Europe,Luxembourg,Both sexes,78.0
+2000,Europe,Luxembourg,Female,81.0
+2000,Europe,Luxembourg,Male,75.0
+1990,Europe,Luxembourg,Both sexes,76.0
+1990,Europe,Luxembourg,Female,79.0
+1990,Europe,Luxembourg,Male,72.0
+2013,Africa,Madagascar,Both sexes,64.39765
+2013,Africa,Madagascar,Female,65.92056
+2013,Africa,Madagascar,Male,62.88858
+2012,Africa,Madagascar,Both sexes,64.0
+2012,Africa,Madagascar,Female,65.0
+2012,Africa,Madagascar,Male,62.0
+2000,Africa,Madagascar,Both sexes,58.0
+2000,Africa,Madagascar,Female,59.0
+2000,Africa,Madagascar,Male,57.0
+1990,Africa,Madagascar,Both sexes,51.0
+1990,Africa,Madagascar,Female,53.0
+1990,Africa,Madagascar,Male,50.0
+2013,Africa,Malawi,Both sexes,59.58976
+2013,Africa,Malawi,Female,61.0779
+2013,Africa,Malawi,Male,58.11091
+2012,Africa,Malawi,Both sexes,59.0
+2012,Africa,Malawi,Female,60.0
+2012,Africa,Malawi,Male,58.0
+2000,Africa,Malawi,Both sexes,44.0
+2000,Africa,Malawi,Female,44.0
+2000,Africa,Malawi,Male,45.0
+1990,Africa,Malawi,Both sexes,45.0
+1990,Africa,Malawi,Female,46.0
+1990,Africa,Malawi,Male,43.0
+2013,Western Pacific,Malaysia,Both sexes,74.05213
+2013,Western Pacific,Malaysia,Female,76.44116
+2013,Western Pacific,Malaysia,Male,71.74158
+2012,Western Pacific,Malaysia,Both sexes,74.0
+2012,Western Pacific,Malaysia,Female,76.0
+2012,Western Pacific,Malaysia,Male,72.0
+2000,Western Pacific,Malaysia,Both sexes,71.0
+2000,Western Pacific,Malaysia,Female,74.0
+2000,Western Pacific,Malaysia,Male,69.0
+1990,Western Pacific,Malaysia,Both sexes,71.0
+1990,Western Pacific,Malaysia,Female,73.0
+1990,Western Pacific,Malaysia,Male,68.0
+2013,South_East Asia,Maldives,Both sexes,77.66563
+2013,South_East Asia,Maldives,Female,78.75065
+2013,South_East Asia,Maldives,Male,76.60545
+2012,South_East Asia,Maldives,Both sexes,77.0
+2012,South_East Asia,Maldives,Female,78.0
+2012,South_East Asia,Maldives,Male,76.0
+2000,South_East Asia,Maldives,Both sexes,68.0
+2000,South_East Asia,Maldives,Female,68.0
+2000,South_East Asia,Maldives,Male,67.0
+1990,South_East Asia,Maldives,Both sexes,58.0
+1990,South_East Asia,Maldives,Female,57.0
+1990,South_East Asia,Maldives,Male,60.0
+2013,Africa,Mali,Both sexes,57.22025
+2013,Africa,Mali,Female,57.05726
+2013,Africa,Mali,Male,57.33265
+2012,Africa,Mali,Both sexes,57.0
+2012,Africa,Mali,Female,57.0
+2012,Africa,Mali,Male,57.0
+2000,Africa,Mali,Both sexes,48.0
+2000,Africa,Mali,Female,48.0
+2000,Africa,Mali,Male,48.0
+1990,Africa,Mali,Both sexes,46.0
+1990,Africa,Mali,Female,46.0
+1990,Africa,Mali,Male,46.0
+2013,Europe,Malta,Both sexes,80.63323
+2013,Europe,Malta,Female,82.23583
+2013,Europe,Malta,Male,79.09216
+2012,Europe,Malta,Both sexes,81.0
+2012,Europe,Malta,Female,83.0
+2012,Europe,Malta,Male,79.0
+2000,Europe,Malta,Both sexes,78.0
+2000,Europe,Malta,Female,80.0
+2000,Europe,Malta,Male,76.0
+1990,Europe,Malta,Both sexes,76.0
+1990,Europe,Malta,Female,78.0
+1990,Europe,Malta,Male,74.0
+2013,Western Pacific,Marshall Islands,Both sexes,70.39505
+2013,Western Pacific,Marshall Islands,Female,72.71584
+2013,Western Pacific,Marshall Islands,Male,68.2481
+2012,Western Pacific,Marshall Islands,Both sexes,70.0
+2012,Western Pacific,Marshall Islands,Female,72.0
+2012,Western Pacific,Marshall Islands,Male,68.0
+2000,Western Pacific,Marshall Islands,Both sexes,66.0
+2000,Western Pacific,Marshall Islands,Female,68.0
+2000,Western Pacific,Marshall Islands,Male,64.0
+1990,Western Pacific,Marshall Islands,Both sexes,63.0
+1990,Western Pacific,Marshall Islands,Female,65.0
+1990,Western Pacific,Marshall Islands,Male,61.0
+2013,Africa,Mauritania,Both sexes,63.18605
+2013,Africa,Mauritania,Female,64.73176
+2013,Africa,Mauritania,Male,61.64285
+2012,Africa,Mauritania,Both sexes,63.0
+2012,Africa,Mauritania,Female,65.0
+2012,Africa,Mauritania,Male,61.0
+2000,Africa,Mauritania,Both sexes,60.0
+2000,Africa,Mauritania,Female,62.0
+2000,Africa,Mauritania,Male,59.0
+1990,Africa,Mauritania,Both sexes,58.0
+1990,Africa,Mauritania,Female,60.0
+1990,Africa,Mauritania,Male,57.0
+2013,Africa,Mauritius,Both sexes,74.13084
+2013,Africa,Mauritius,Female,77.98173
+2013,Africa,Mauritius,Male,70.44554
+2012,Africa,Mauritius,Both sexes,74.0
+2012,Africa,Mauritius,Female,78.0
+2012,Africa,Mauritius,Male,70.0
+2000,Africa,Mauritius,Both sexes,72.0
+2000,Africa,Mauritius,Female,75.0
+2000,Africa,Mauritius,Male,68.0
+1990,Africa,Mauritius,Both sexes,70.0
+1990,Africa,Mauritius,Female,74.0
+1990,Africa,Mauritius,Male,66.0
+2013,Americas,Mexico,Both sexes,75.37576
+2013,Americas,Mexico,Female,78.0468
+2013,Americas,Mexico,Male,72.56546
+2012,Americas,Mexico,Both sexes,76.0
+2012,Americas,Mexico,Female,79.0
+2012,Americas,Mexico,Male,73.0
+2000,Americas,Mexico,Both sexes,75.0
+2000,Americas,Mexico,Female,77.0
+2000,Americas,Mexico,Male,72.0
+1990,Americas,Mexico,Both sexes,71.0
+1990,Americas,Mexico,Female,75.0
+1990,Americas,Mexico,Male,68.0
+2013,Western Pacific,Micronesia,Both sexes,69.12877
+2013,Western Pacific,Micronesia,Female,70.31742
+2013,Western Pacific,Micronesia,Male,67.94132
+2012,Western Pacific,Micronesia,Both sexes,69.0
+2012,Western Pacific,Micronesia,Female,70.0
+2012,Western Pacific,Micronesia,Male,68.0
+2000,Western Pacific,Micronesia,Both sexes,67.0
+2000,Western Pacific,Micronesia,Female,68.0
+2000,Western Pacific,Micronesia,Male,66.0
+1990,Western Pacific,Micronesia,Both sexes,66.0
+1990,Western Pacific,Micronesia,Female,67.0
+1990,Western Pacific,Micronesia,Male,65.0
+2013,Europe,Monaco,Both sexes,82.15714
+2013,Europe,Monaco,Female,85.32774
+2013,Europe,Monaco,Male,78.81821
+2012,Europe,Monaco,Both sexes,82.0
+2012,Europe,Monaco,Female,86.0
+2012,Europe,Monaco,Male,79.0
+2000,Europe,Monaco,Both sexes,80.0
+2000,Europe,Monaco,Female,84.0
+2000,Europe,Monaco,Male,76.0
+1990,Europe,Monaco,Both sexes,78.0
+1990,Europe,Monaco,Female,81.0
+1990,Europe,Monaco,Male,74.0
+2013,Western Pacific,Mongolia,Both sexes,67.70721
+2013,Western Pacific,Mongolia,Female,71.97111
+2013,Western Pacific,Mongolia,Male,63.74888
+2012,Western Pacific,Mongolia,Both sexes,67.0
+2012,Western Pacific,Mongolia,Female,72.0
+2012,Western Pacific,Mongolia,Male,64.0
+2000,Western Pacific,Mongolia,Both sexes,63.0
+2000,Western Pacific,Mongolia,Female,66.0
+2000,Western Pacific,Mongolia,Male,60.0
+1990,Western Pacific,Mongolia,Both sexes,61.0
+1990,Western Pacific,Mongolia,Female,64.0
+1990,Western Pacific,Mongolia,Male,58.0
+2013,Europe,Montenegro,Both sexes,75.93555
+2013,Europe,Montenegro,Female,78.38677
+2013,Europe,Montenegro,Male,73.52393
+2012,Europe,Montenegro,Both sexes,76.0
+2012,Europe,Montenegro,Female,78.0
+2012,Europe,Montenegro,Male,73.0
+2000,Europe,Montenegro,Both sexes,75.0
+2000,Europe,Montenegro,Female,77.0
+2000,Europe,Montenegro,Male,72.0
+1990,Europe,Montenegro,Both sexes,76.0
+1990,Europe,Montenegro,Female,79.0
+1990,Europe,Montenegro,Male,73.0
+2013,Eastern Mediterranean,Morocco,Both sexes,70.97952
+2013,Eastern Mediterranean,Morocco,Female,72.79552
+2013,Eastern Mediterranean,Morocco,Male,69.11652
+2012,Eastern Mediterranean,Morocco,Both sexes,71.0
+2012,Eastern Mediterranean,Morocco,Female,73.0
+2012,Eastern Mediterranean,Morocco,Male,69.0
+2000,Eastern Mediterranean,Morocco,Both sexes,68.0
+2000,Eastern Mediterranean,Morocco,Female,70.0
+2000,Eastern Mediterranean,Morocco,Male,66.0
+1990,Eastern Mediterranean,Morocco,Both sexes,64.0
+1990,Eastern Mediterranean,Morocco,Female,66.0
+1990,Eastern Mediterranean,Morocco,Male,63.0
+2013,Africa,Mozambique,Both sexes,54.18395
+2013,Africa,Mozambique,Female,54.84337
+2013,Africa,Mozambique,Male,53.46567
+2012,Africa,Mozambique,Both sexes,53.0
+2012,Africa,Mozambique,Female,54.0
+2012,Africa,Mozambique,Male,52.0
+2000,Africa,Mozambique,Both sexes,47.0
+2000,Africa,Mozambique,Female,49.0
+2000,Africa,Mozambique,Male,46.0
+1990,Africa,Mozambique,Both sexes,43.0
+1990,Africa,Mozambique,Female,45.0
+1990,Africa,Mozambique,Male,41.0
+2013,South_East Asia,Myanmar,Both sexes,65.95232
+2013,South_East Asia,Myanmar,Female,67.83942
+2013,South_East Asia,Myanmar,Male,63.99606
+2012,South_East Asia,Myanmar,Both sexes,66.0
+2012,South_East Asia,Myanmar,Female,68.0
+2012,South_East Asia,Myanmar,Male,64.0
+2000,South_East Asia,Myanmar,Both sexes,62.0
+2000,South_East Asia,Myanmar,Female,64.0
+2000,South_East Asia,Myanmar,Male,60.0
+1990,South_East Asia,Myanmar,Both sexes,59.0
+1990,South_East Asia,Myanmar,Female,61.0
+1990,South_East Asia,Myanmar,Male,57.0
+2013,Africa,Namibia,Both sexes,68.10928
+2013,Africa,Namibia,Female,70.03987
+2013,Africa,Namibia,Male,66.00034
+2012,Africa,Namibia,Both sexes,67.0
+2012,Africa,Namibia,Female,69.0
+2012,Africa,Namibia,Male,64.0
+2000,Africa,Namibia,Both sexes,57.0
+2000,Africa,Namibia,Female,57.0
+2000,Africa,Namibia,Male,57.0
+1990,Africa,Namibia,Both sexes,63.0
+1990,Africa,Namibia,Female,64.0
+1990,Africa,Namibia,Male,62.0
+2013,Western Pacific,Nauru,Both sexes,78.87914
+2013,Western Pacific,Nauru,Female,83.33987
+2013,Western Pacific,Nauru,Male,74.96072
+2012,Western Pacific,Nauru,Both sexes,79.0
+2012,Western Pacific,Nauru,Female,83.0
+2012,Western Pacific,Nauru,Male,75.0
+2000,Western Pacific,Nauru,Both sexes,77.0
+2000,Western Pacific,Nauru,Female,81.0
+2000,Western Pacific,Nauru,Male,73.0
+1990,Western Pacific,Nauru,Both sexes,73.0
+1990,Western Pacific,Nauru,Female,77.0
+1990,Western Pacific,Nauru,Male,69.0
+2013,South_East Asia,Nepal,Both sexes,68.47222
+2013,South_East Asia,Nepal,Female,69.73096
+2013,South_East Asia,Nepal,Male,67.26405
+2012,South_East Asia,Nepal,Both sexes,68.0
+2012,South_East Asia,Nepal,Female,69.0
+2012,South_East Asia,Nepal,Male,67.0
+2000,South_East Asia,Nepal,Both sexes,62.0
+2000,South_East Asia,Nepal,Female,63.0
+2000,South_East Asia,Nepal,Male,61.0
+1990,South_East Asia,Nepal,Both sexes,54.0
+1990,South_East Asia,Nepal,Female,55.0
+1990,South_East Asia,Nepal,Male,54.0
+2013,Europe,Netherlands,Both sexes,81.37485
+2013,Europe,Netherlands,Female,83.20814
+2013,Europe,Netherlands,Male,79.41976
+2012,Europe,Netherlands,Both sexes,81.0
+2012,Europe,Netherlands,Female,83.0
+2012,Europe,Netherlands,Male,79.0
+2000,Europe,Netherlands,Both sexes,78.0
+2000,Europe,Netherlands,Female,81.0
+2000,Europe,Netherlands,Male,76.0
+1990,Europe,Netherlands,Both sexes,77.0
+1990,Europe,Netherlands,Female,80.0
+1990,Europe,Netherlands,Male,74.0
+2013,Western Pacific,New Zealand,Both sexes,82.08273
+2013,Western Pacific,New Zealand,Female,83.71522
+2013,Western Pacific,New Zealand,Male,80.38656
+2012,Western Pacific,New Zealand,Both sexes,82.0
+2012,Western Pacific,New Zealand,Female,84.0
+2012,Western Pacific,New Zealand,Male,80.0
+2000,Western Pacific,New Zealand,Both sexes,79.0
+2000,Western Pacific,New Zealand,Female,81.0
+2000,Western Pacific,New Zealand,Male,76.0
+1990,Western Pacific,New Zealand,Both sexes,76.0
+1990,Western Pacific,New Zealand,Female,78.0
+1990,Western Pacific,New Zealand,Male,73.0
+2013,Americas,Nicaragua,Both sexes,73.64848
+2013,Americas,Nicaragua,Female,76.62982
+2013,Americas,Nicaragua,Male,70.73053
+2012,Americas,Nicaragua,Both sexes,73.0
+2012,Americas,Nicaragua,Female,76.0
+2012,Americas,Nicaragua,Male,70.0
+2000,Americas,Nicaragua,Both sexes,73.0
+2000,Americas,Nicaragua,Female,76.0
+2000,Americas,Nicaragua,Male,70.0
+1990,Americas,Nicaragua,Both sexes,71.0
+1990,Americas,Nicaragua,Female,74.0
+1990,Americas,Nicaragua,Male,68.0
+2013,Africa,Niger,Both sexes,59.29464
+2013,Africa,Niger,Female,59.4721
+2013,Africa,Niger,Male,59.19111
+2012,Africa,Niger,Both sexes,59.0
+2012,Africa,Niger,Female,59.0
+2012,Africa,Niger,Male,59.0
+2000,Africa,Niger,Both sexes,50.0
+2000,Africa,Niger,Female,50.0
+2000,Africa,Niger,Male,50.0
+1990,Africa,Niger,Both sexes,43.0
+1990,Africa,Niger,Female,43.0
+1990,Africa,Niger,Male,43.0
+2013,Africa,Nigeria,Both sexes,54.54945
+2013,Africa,Nigeria,Female,55.40039
+2013,Africa,Nigeria,Male,53.73021
+2012,Africa,Nigeria,Both sexes,54.0
+2012,Africa,Nigeria,Female,55.0
+2012,Africa,Nigeria,Male,53.0
+2000,Africa,Nigeria,Both sexes,47.0
+2000,Africa,Nigeria,Female,48.0
+2000,Africa,Nigeria,Male,47.0
+1990,Africa,Nigeria,Both sexes,46.0
+1990,Africa,Nigeria,Female,47.0
+1990,Africa,Nigeria,Male,45.0
+2013,Western Pacific,Niue,Both sexes,74.59361
+2013,Western Pacific,Niue,Female,77.92222
+2013,Western Pacific,Niue,Male,71.70438
+2012,Western Pacific,Niue,Both sexes,74.0
+2012,Western Pacific,Niue,Female,78.0
+2012,Western Pacific,Niue,Male,72.0
+2000,Western Pacific,Niue,Both sexes,73.0
+2000,Western Pacific,Niue,Female,76.0
+2000,Western Pacific,Niue,Male,70.0
+1990,Western Pacific,Niue,Both sexes,71.0
+1990,Western Pacific,Niue,Female,75.0
+1990,Western Pacific,Niue,Male,69.0
+2013,Europe,Norway,Both sexes,81.75625
+2013,Europe,Norway,Female,83.77863
+2013,Europe,Norway,Male,79.66899
+2012,Europe,Norway,Both sexes,82.0
+2012,Europe,Norway,Female,84.0
+2012,Europe,Norway,Male,80.0
+2000,Europe,Norway,Both sexes,79.0
+2000,Europe,Norway,Female,82.0
+2000,Europe,Norway,Male,76.0
+1990,Europe,Norway,Both sexes,77.0
+1990,Europe,Norway,Female,80.0
+1990,Europe,Norway,Male,74.0
+2013,Eastern Mediterranean,Oman,Both sexes,76.13046
+2013,Eastern Mediterranean,Oman,Female,78.71211
+2013,Eastern Mediterranean,Oman,Male,74.41271
+2012,Eastern Mediterranean,Oman,Both sexes,76.0
+2012,Eastern Mediterranean,Oman,Female,78.0
+2012,Eastern Mediterranean,Oman,Male,74.0
+2000,Eastern Mediterranean,Oman,Both sexes,72.0
+2000,Eastern Mediterranean,Oman,Female,75.0
+2000,Eastern Mediterranean,Oman,Male,71.0
+1990,Eastern Mediterranean,Oman,Both sexes,68.0
+1990,Eastern Mediterranean,Oman,Female,70.0
+1990,Eastern Mediterranean,Oman,Male,66.0
+2013,Eastern Mediterranean,Pakistan,Both sexes,65.57568
+2013,Eastern Mediterranean,Pakistan,Female,66.64961
+2013,Eastern Mediterranean,Pakistan,Male,64.58875
+2012,Eastern Mediterranean,Pakistan,Both sexes,65.0
+2012,Eastern Mediterranean,Pakistan,Female,66.0
+2012,Eastern Mediterranean,Pakistan,Male,64.0
+2000,Eastern Mediterranean,Pakistan,Both sexes,63.0
+2000,Eastern Mediterranean,Pakistan,Female,64.0
+2000,Eastern Mediterranean,Pakistan,Male,62.0
+1990,Eastern Mediterranean,Pakistan,Both sexes,60.0
+1990,Eastern Mediterranean,Pakistan,Female,61.0
+1990,Eastern Mediterranean,Pakistan,Male,59.0
+2013,Western Pacific,Palau,Both sexes,73.06908
+2013,Western Pacific,Palau,Female,75.18185
+2013,Western Pacific,Palau,Male,71.10368
+2012,Western Pacific,Palau,Both sexes,73.0
+2012,Western Pacific,Palau,Female,75.0
+2012,Western Pacific,Palau,Male,71.0
+2000,Western Pacific,Palau,Both sexes,70.0
+2000,Western Pacific,Palau,Female,71.0
+2000,Western Pacific,Palau,Male,68.0
+1990,Western Pacific,Palau,Both sexes,66.0
+1990,Western Pacific,Palau,Female,68.0
+1990,Western Pacific,Palau,Male,65.0
+2013,Americas,Panama,Both sexes,77.34814
+2013,Americas,Panama,Female,80.49919
+2013,Americas,Panama,Male,74.44408
+2012,Americas,Panama,Both sexes,77.0
+2012,Americas,Panama,Female,80.0
+2012,Americas,Panama,Male,74.0
+2000,Americas,Panama,Both sexes,76.0
+2000,Americas,Panama,Female,79.0
+2000,Americas,Panama,Male,74.0
+1990,Americas,Panama,Both sexes,74.0
+1990,Americas,Panama,Female,76.0
+1990,Americas,Panama,Male,72.0
+2013,Western Pacific,Papua New Guinea,Both sexes,62.36177
+2013,Western Pacific,Papua New Guinea,Female,64.84779
+2013,Western Pacific,Papua New Guinea,Male,60.04388
+2012,Western Pacific,Papua New Guinea,Both sexes,62.0
+2012,Western Pacific,Papua New Guinea,Female,65.0
+2012,Western Pacific,Papua New Guinea,Male,60.0
+2000,Western Pacific,Papua New Guinea,Both sexes,59.0
+2000,Western Pacific,Papua New Guinea,Female,61.0
+2000,Western Pacific,Papua New Guinea,Male,56.0
+1990,Western Pacific,Papua New Guinea,Both sexes,56.0
+1990,Western Pacific,Papua New Guinea,Female,59.0
+1990,Western Pacific,Papua New Guinea,Male,53.0
+2013,Americas,Paraguay,Both sexes,74.72476
+2013,Americas,Paraguay,Female,77.9196
+2013,Americas,Paraguay,Male,71.8233
+2012,Americas,Paraguay,Both sexes,75.0
+2012,Americas,Paraguay,Female,78.0
+2012,Americas,Paraguay,Male,72.0
+2000,Americas,Paraguay,Both sexes,74.0
+2000,Americas,Paraguay,Female,77.0
+2000,Americas,Paraguay,Male,71.0
+1990,Americas,Paraguay,Both sexes,73.0
+1990,Americas,Paraguay,Female,76.0
+1990,Americas,Paraguay,Male,71.0
+2013,Americas,Peru,Both sexes,77.38308
+2013,Americas,Peru,Female,79.09096
+2013,Americas,Peru,Male,75.64774
+2012,Americas,Peru,Both sexes,77.0
+2012,Americas,Peru,Female,79.0
+2012,Americas,Peru,Male,75.0
+2000,Americas,Peru,Both sexes,72.0
+2000,Americas,Peru,Female,74.0
+2000,Americas,Peru,Male,70.0
+1990,Americas,Peru,Both sexes,70.0
+1990,Americas,Peru,Female,72.0
+1990,Americas,Peru,Male,68.0
+2013,Western Pacific,Philippines,Both sexes,68.83433
+2013,Western Pacific,Philippines,Female,72.45982
+2013,Western Pacific,Philippines,Male,65.42637
+2012,Western Pacific,Philippines,Both sexes,69.0
+2012,Western Pacific,Philippines,Female,72.0
+2012,Western Pacific,Philippines,Male,65.0
+2000,Western Pacific,Philippines,Both sexes,69.0
+2000,Western Pacific,Philippines,Female,73.0
+2000,Western Pacific,Philippines,Male,66.0
+1990,Western Pacific,Philippines,Both sexes,66.0
+1990,Western Pacific,Philippines,Female,70.0
+1990,Western Pacific,Philippines,Male,63.0
+2013,Europe,Poland,Both sexes,76.85128
+2013,Europe,Poland,Female,81.05412
+2013,Europe,Poland,Male,72.61977
+2012,Europe,Poland,Both sexes,77.0
+2012,Europe,Poland,Female,81.0
+2012,Europe,Poland,Male,73.0
+2000,Europe,Poland,Both sexes,74.0
+2000,Europe,Poland,Female,78.0
+2000,Europe,Poland,Male,70.0
+1990,Europe,Poland,Both sexes,71.0
+1990,Europe,Poland,Female,76.0
+1990,Europe,Poland,Male,67.0
+2013,Europe,Portugal,Both sexes,80.95487
+2013,Europe,Portugal,Female,84.17118
+2013,Europe,Portugal,Male,77.62686
+2012,Europe,Portugal,Both sexes,81.0
+2012,Europe,Portugal,Female,84.0
+2012,Europe,Portugal,Male,77.0
+2000,Europe,Portugal,Both sexes,77.0
+2000,Europe,Portugal,Female,80.0
+2000,Europe,Portugal,Male,73.0
+1990,Europe,Portugal,Both sexes,74.0
+1990,Europe,Portugal,Female,78.0
+1990,Europe,Portugal,Male,71.0
+2013,Eastern Mediterranean,Qatar,Both sexes,79.35993
+2013,Eastern Mediterranean,Qatar,Female,79.7543
+2013,Eastern Mediterranean,Qatar,Male,79.36996
+2012,Eastern Mediterranean,Qatar,Both sexes,79.0
+2012,Eastern Mediterranean,Qatar,Female,80.0
+2012,Eastern Mediterranean,Qatar,Male,79.0
+2000,Eastern Mediterranean,Qatar,Both sexes,77.0
+2000,Eastern Mediterranean,Qatar,Female,76.0
+2000,Eastern Mediterranean,Qatar,Male,77.0
+1990,Eastern Mediterranean,Qatar,Both sexes,75.0
+1990,Eastern Mediterranean,Qatar,Female,76.0
+1990,Eastern Mediterranean,Qatar,Male,74.0
+2013,Western Pacific,South Korea,Both sexes,81.61579
+2013,Western Pacific,South Korea,Female,84.69374
+2013,Western Pacific,South Korea,Male,78.27151
+2012,Western Pacific,South Korea,Both sexes,81.0
+2012,Western Pacific,South Korea,Female,85.0
+2012,Western Pacific,South Korea,Male,78.0
+2000,Western Pacific,South Korea,Both sexes,76.0
+2000,Western Pacific,South Korea,Female,80.0
+2000,Western Pacific,South Korea,Male,73.0
+1990,Western Pacific,South Korea,Both sexes,72.0
+1990,Western Pacific,South Korea,Female,76.0
+1990,Western Pacific,South Korea,Male,68.0
+2013,Europe,Moldova,Both sexes,70.46939
+2013,Europe,Moldova,Female,74.72403
+2013,Europe,Moldova,Male,66.2384
+2012,Europe,Moldova,Both sexes,71.0
+2012,Europe,Moldova,Female,75.0
+2012,Europe,Moldova,Male,66.0
+2000,Europe,Moldova,Both sexes,67.0
+2000,Europe,Moldova,Female,71.0
+2000,Europe,Moldova,Male,64.0
+1990,Europe,Moldova,Both sexes,68.0
+1990,Europe,Moldova,Female,72.0
+1990,Europe,Moldova,Male,65.0
+2013,Europe,Romania,Both sexes,74.38423
+2013,Europe,Romania,Female,78.20973
+2013,Europe,Romania,Male,70.65975
+2012,Europe,Romania,Both sexes,74.0
+2012,Europe,Romania,Female,78.0
+2012,Europe,Romania,Male,71.0
+2000,Europe,Romania,Both sexes,71.0
+2000,Europe,Romania,Female,75.0
+2000,Europe,Romania,Male,68.0
+1990,Europe,Romania,Both sexes,70.0
+1990,Europe,Romania,Female,73.0
+1990,Europe,Romania,Male,66.0
+2013,Europe,Russian Federation,Both sexes,69.29092
+2013,Europe,Russian Federation,Female,75.22597
+2013,Europe,Russian Federation,Male,63.42852
+2012,Europe,Russian Federation,Both sexes,69.0
+2012,Europe,Russian Federation,Female,75.0
+2012,Europe,Russian Federation,Male,63.0
+2000,Europe,Russian Federation,Both sexes,65.0
+2000,Europe,Russian Federation,Female,72.0
+2000,Europe,Russian Federation,Male,59.0
+1990,Europe,Russian Federation,Both sexes,69.0
+1990,Europe,Russian Federation,Female,74.0
+1990,Europe,Russian Federation,Male,63.0
+2013,Africa,Rwanda,Both sexes,65.47727
+2013,Africa,Rwanda,Female,67.11962
+2013,Africa,Rwanda,Male,63.76704
+2012,Africa,Rwanda,Both sexes,65.0
+2012,Africa,Rwanda,Female,66.0
+2012,Africa,Rwanda,Male,63.0
+2000,Africa,Rwanda,Both sexes,46.0
+2000,Africa,Rwanda,Female,47.0
+2000,Africa,Rwanda,Male,46.0
+1990,Africa,Rwanda,Both sexes,48.0
+1990,Africa,Rwanda,Female,50.0
+1990,Africa,Rwanda,Male,46.0
+2013,Americas,Saint Kitts and Nevis,Both sexes,74.16277
+2013,Americas,Saint Kitts and Nevis,Female,77.68695
+2013,Americas,Saint Kitts and Nevis,Male,70.99812
+2012,Americas,Saint Kitts and Nevis,Both sexes,74.0
+2012,Americas,Saint Kitts and Nevis,Female,78.0
+2012,Americas,Saint Kitts and Nevis,Male,71.0
+2000,Americas,Saint Kitts and Nevis,Both sexes,71.0
+2000,Americas,Saint Kitts and Nevis,Female,74.0
+2000,Americas,Saint Kitts and Nevis,Male,68.0
+1990,Americas,Saint Kitts and Nevis,Both sexes,68.0
+1990,Americas,Saint Kitts and Nevis,Female,71.0
+1990,Americas,Saint Kitts and Nevis,Male,65.0
+2013,Americas,Saint Lucia,Both sexes,75.18542
+2013,Americas,Saint Lucia,Female,79.12785
+2013,Americas,Saint Lucia,Male,71.56383
+2012,Americas,Saint Lucia,Both sexes,75.0
+2012,Americas,Saint Lucia,Female,79.0
+2012,Americas,Saint Lucia,Male,71.0
+2000,Americas,Saint Lucia,Both sexes,74.0
+2000,Americas,Saint Lucia,Female,77.0
+2000,Americas,Saint Lucia,Male,71.0
+1990,Americas,Saint Lucia,Both sexes,72.0
+1990,Americas,Saint Lucia,Female,74.0
+1990,Americas,Saint Lucia,Male,70.0
+2013,Americas,Saint Vincent and the Grenadines,Both sexes,73.90679
+2013,Americas,Saint Vincent and the Grenadines,Female,76.2924
+2013,Americas,Saint Vincent and the Grenadines,Male,71.64554
+2012,Americas,Saint Vincent and the Grenadines,Both sexes,74.0
+2012,Americas,Saint Vincent and the Grenadines,Female,76.0
+2012,Americas,Saint Vincent and the Grenadines,Male,72.0
+2000,Americas,Saint Vincent and the Grenadines,Both sexes,70.0
+2000,Americas,Saint Vincent and the Grenadines,Female,73.0
+2000,Americas,Saint Vincent and the Grenadines,Male,67.0
+1990,Americas,Saint Vincent and the Grenadines,Both sexes,72.0
+1990,Americas,Saint Vincent and the Grenadines,Female,75.0
+1990,Americas,Saint Vincent and the Grenadines,Male,69.0
+2013,Western Pacific,Samoa,Both sexes,73.44813
+2013,Western Pacific,Samoa,Female,76.90939
+2013,Western Pacific,Samoa,Male,70.37081
+2012,Western Pacific,Samoa,Both sexes,73.0
+2012,Western Pacific,Samoa,Female,77.0
+2012,Western Pacific,Samoa,Male,70.0
+2000,Western Pacific,Samoa,Both sexes,70.0
+2000,Western Pacific,Samoa,Female,74.0
+2000,Western Pacific,Samoa,Male,67.0
+1990,Western Pacific,Samoa,Both sexes,66.0
+1990,Western Pacific,Samoa,Female,69.0
+1990,Western Pacific,Samoa,Male,63.0
+2013,Europe,San Marino,Both sexes,83.0731
+2013,Europe,San Marino,Female,83.77034
+2013,Europe,San Marino,Male,82.5323
+2012,Europe,San Marino,Both sexes,83.0
+2012,Europe,San Marino,Female,84.0
+2012,Europe,San Marino,Male,82.0
+2000,Europe,San Marino,Both sexes,82.0
+2000,Europe,San Marino,Female,85.0
+2000,Europe,San Marino,Male,78.0
+1990,Europe,San Marino,Both sexes,79.0
+1990,Europe,San Marino,Female,83.0
+1990,Europe,San Marino,Male,76.0
+2013,Africa,Sao Tome & Principe,Both sexes,67.01282
+2013,Africa,Sao Tome & Principe,Female,68.82661
+2013,Africa,Sao Tome & Principe,Male,65.12962
+2012,Africa,Sao Tome & Principe,Both sexes,67.0
+2012,Africa,Sao Tome & Principe,Female,69.0
+2012,Africa,Sao Tome & Principe,Male,65.0
+2000,Africa,Sao Tome & Principe,Both sexes,63.0
+2000,Africa,Sao Tome & Principe,Female,65.0
+2000,Africa,Sao Tome & Principe,Male,61.0
+1990,Africa,Sao Tome & Principe,Both sexes,61.0
+1990,Africa,Sao Tome & Principe,Female,63.0
+1990,Africa,Sao Tome & Principe,Male,59.0
+2013,Eastern Mediterranean,Saudi Arabia,Both sexes,75.72633
+2013,Eastern Mediterranean,Saudi Arabia,Female,77.78622
+2013,Eastern Mediterranean,Saudi Arabia,Male,74.12813
+2012,Eastern Mediterranean,Saudi Arabia,Both sexes,76.0
+2012,Eastern Mediterranean,Saudi Arabia,Female,78.0
+2012,Eastern Mediterranean,Saudi Arabia,Male,74.0
+2000,Eastern Mediterranean,Saudi Arabia,Both sexes,73.0
+2000,Eastern Mediterranean,Saudi Arabia,Female,75.0
+2000,Eastern Mediterranean,Saudi Arabia,Male,71.0
+1990,Eastern Mediterranean,Saudi Arabia,Both sexes,69.0
+1990,Eastern Mediterranean,Saudi Arabia,Female,71.0
+1990,Eastern Mediterranean,Saudi Arabia,Male,67.0
+2013,Africa,Senegal,Both sexes,64.49203
+2013,Africa,Senegal,Female,65.88642
+2013,Africa,Senegal,Male,62.96355
+2012,Africa,Senegal,Both sexes,64.0
+2012,Africa,Senegal,Female,66.0
+2012,Africa,Senegal,Male,63.0
+2000,Africa,Senegal,Both sexes,57.0
+2000,Africa,Senegal,Female,59.0
+2000,Africa,Senegal,Male,56.0
+1990,Africa,Senegal,Both sexes,57.0
+1990,Africa,Senegal,Female,59.0
+1990,Africa,Senegal,Male,56.0
+2013,Europe,Serbia,Both sexes,74.69285
+2013,Europe,Serbia,Female,77.36535
+2013,Europe,Serbia,Male,72.08939
+2012,Europe,Serbia,Both sexes,75.0
+2012,Europe,Serbia,Female,77.0
+2012,Europe,Serbia,Male,72.0
+2000,Europe,Serbia,Both sexes,72.0
+2000,Europe,Serbia,Female,75.0
+2000,Europe,Serbia,Male,69.0
+1990,Europe,Serbia,Both sexes,72.0
+1990,Europe,Serbia,Female,75.0
+1990,Europe,Serbia,Male,69.0
+2013,Africa,Seychelles,Both sexes,73.83582
+2013,Africa,Seychelles,Female,78.48976
+2013,Africa,Seychelles,Male,69.67021
+2012,Africa,Seychelles,Both sexes,74.0
+2012,Africa,Seychelles,Female,78.0
+2012,Africa,Seychelles,Male,69.0
+2000,Africa,Seychelles,Both sexes,72.0
+2000,Africa,Seychelles,Female,77.0
+2000,Africa,Seychelles,Male,67.0
+1990,Africa,Seychelles,Both sexes,69.0
+1990,Africa,Seychelles,Female,75.0
+1990,Africa,Seychelles,Male,64.0
+2013,Africa,Sierra Leone,Both sexes,45.98883
+2013,Africa,Sierra Leone,Female,46.1671
+2013,Africa,Sierra Leone,Male,45.79396
+2012,Africa,Sierra Leone,Both sexes,46.0
+2012,Africa,Sierra Leone,Female,46.0
+2012,Africa,Sierra Leone,Male,45.0
+2000,Africa,Sierra Leone,Both sexes,39.0
+2000,Africa,Sierra Leone,Female,39.0
+2000,Africa,Sierra Leone,Male,38.0
+1990,Africa,Sierra Leone,Both sexes,38.0
+1990,Africa,Sierra Leone,Female,38.0
+1990,Africa,Sierra Leone,Male,38.0
+2013,Western Pacific,Singapore,Both sexes,82.87928
+2013,Western Pacific,Singapore,Female,85.14484
+2013,Western Pacific,Singapore,Male,80.51836
+2012,Western Pacific,Singapore,Both sexes,83.0
+2012,Western Pacific,Singapore,Female,85.0
+2012,Western Pacific,Singapore,Male,80.0
+2000,Western Pacific,Singapore,Both sexes,79.0
+2000,Western Pacific,Singapore,Female,81.0
+2000,Western Pacific,Singapore,Male,76.0
+1990,Western Pacific,Singapore,Both sexes,75.0
+1990,Western Pacific,Singapore,Female,78.0
+1990,Western Pacific,Singapore,Male,73.0
+2013,Europe,Slovakia,Both sexes,76.28677
+2013,Europe,Slovakia,Female,80.04646
+2013,Europe,Slovakia,Male,72.41772
+2012,Europe,Slovakia,Both sexes,76.0
+2012,Europe,Slovakia,Female,80.0
+2012,Europe,Slovakia,Male,72.0
+2000,Europe,Slovakia,Both sexes,73.0
+2000,Europe,Slovakia,Female,77.0
+2000,Europe,Slovakia,Male,69.0
+1990,Europe,Slovakia,Both sexes,71.0
+1990,Europe,Slovakia,Female,75.0
+1990,Europe,Slovakia,Male,66.0
+2013,Europe,Slovenia,Both sexes,80.39226
+2013,Europe,Slovenia,Female,83.5754
+2013,Europe,Slovenia,Male,77.14986
+2012,Europe,Slovenia,Both sexes,80.0
+2012,Europe,Slovenia,Female,83.0
+2012,Europe,Slovenia,Male,77.0
+2000,Europe,Slovenia,Both sexes,76.0
+2000,Europe,Slovenia,Female,80.0
+2000,Europe,Slovenia,Male,72.0
+1990,Europe,Slovenia,Both sexes,74.0
+1990,Europe,Slovenia,Female,78.0
+1990,Europe,Slovenia,Male,70.0
+2013,Western Pacific,Solomon Islands,Both sexes,68.72803
+2013,Western Pacific,Solomon Islands,Female,70.28912
+2013,Western Pacific,Solomon Islands,Male,67.33309
+2012,Western Pacific,Solomon Islands,Both sexes,69.0
+2012,Western Pacific,Solomon Islands,Female,70.0
+2012,Western Pacific,Solomon Islands,Male,67.0
+2000,Western Pacific,Solomon Islands,Both sexes,65.0
+2000,Western Pacific,Solomon Islands,Female,67.0
+2000,Western Pacific,Solomon Islands,Male,64.0
+1990,Western Pacific,Solomon Islands,Both sexes,62.0
+1990,Western Pacific,Solomon Islands,Female,63.0
+1990,Western Pacific,Solomon Islands,Male,61.0
+2013,Eastern Mediterranean,Somalia,Both sexes,54.42672
+2013,Eastern Mediterranean,Somalia,Female,55.84151
+2013,Eastern Mediterranean,Somalia,Male,53.02265
+2012,Eastern Mediterranean,Somalia,Both sexes,53.0
+2012,Eastern Mediterranean,Somalia,Female,55.0
+2012,Eastern Mediterranean,Somalia,Male,51.0
+2000,Eastern Mediterranean,Somalia,Both sexes,50.0
+2000,Eastern Mediterranean,Somalia,Female,52.0
+2000,Eastern Mediterranean,Somalia,Male,49.0
+1990,Eastern Mediterranean,Somalia,Both sexes,47.0
+1990,Eastern Mediterranean,Somalia,Female,50.0
+1990,Eastern Mediterranean,Somalia,Male,45.0
+2013,Africa,South Africa,Both sexes,60.4067
+2013,Africa,South Africa,Female,63.55947
+2013,Africa,South Africa,Male,57.14445
+2012,Africa,South Africa,Both sexes,59.0
+2012,Africa,South Africa,Female,62.0
+2012,Africa,South Africa,Male,56.0
+2000,Africa,South Africa,Both sexes,59.0
+2000,Africa,South Africa,Female,62.0
+2000,Africa,South Africa,Male,55.0
+1990,Africa,South Africa,Both sexes,62.0
+1990,Africa,South Africa,Female,66.0
+1990,Africa,South Africa,Male,59.0
+2013,Africa,South Sudan,Both sexes,56.41164
+2013,Africa,South Sudan,Female,57.48568
+2013,Africa,South Sudan,Male,55.34608
+2012,Eastern Mediterranean,South Sudan,Both sexes,55.0
+2012,Eastern Mediterranean,South Sudan,Female,56.0
+2012,Eastern Mediterranean,South Sudan,Male,54.0
+2000,Eastern Mediterranean,South Sudan,Both sexes,49.0
+2000,Eastern Mediterranean,South Sudan,Female,50.0
+2000,Eastern Mediterranean,South Sudan,Male,47.0
+1990,Eastern Mediterranean,South Sudan,Both sexes,42.0
+1990,Eastern Mediterranean,South Sudan,Female,44.0
+1990,Eastern Mediterranean,South Sudan,Male,41.0
+2013,Europe,Spain,Both sexes,82.6227
+2013,Europe,Spain,Female,85.61572
+2013,Europe,Spain,Male,79.56665
+2012,Europe,Spain,Both sexes,82.0
+2012,Europe,Spain,Female,85.0
+2012,Europe,Spain,Male,79.0
+2000,Europe,Spain,Both sexes,79.0
+2000,Europe,Spain,Female,83.0
+2000,Europe,Spain,Male,76.0
+1990,Europe,Spain,Both sexes,77.0
+1990,Europe,Spain,Female,81.0
+1990,Europe,Spain,Male,73.0
+2013,South_East Asia,Sri Lanka,Both sexes,74.99951
+2013,South_East Asia,Sri Lanka,Female,78.47947
+2013,South_East Asia,Sri Lanka,Male,71.62266
+2012,South_East Asia,Sri Lanka,Both sexes,75.0
+2012,South_East Asia,Sri Lanka,Female,78.0
+2012,South_East Asia,Sri Lanka,Male,71.0
+2000,South_East Asia,Sri Lanka,Both sexes,70.0
+2000,South_East Asia,Sri Lanka,Female,75.0
+2000,South_East Asia,Sri Lanka,Male,65.0
+1990,South_East Asia,Sri Lanka,Both sexes,69.0
+1990,South_East Asia,Sri Lanka,Female,75.0
+1990,South_East Asia,Sri Lanka,Male,65.0
+2013,Eastern Mediterranean,Sudan,Both sexes,63.04385
+2013,Eastern Mediterranean,Sudan,Female,64.91327
+2013,Eastern Mediterranean,Sudan,Male,61.2402
+2012,Eastern Mediterranean,Sudan,Both sexes,63.0
+2012,Eastern Mediterranean,Sudan,Female,65.0
+2012,Eastern Mediterranean,Sudan,Male,61.0
+2000,Eastern Mediterranean,Sudan,Both sexes,58.0
+2000,Eastern Mediterranean,Sudan,Female,60.0
+2000,Eastern Mediterranean,Sudan,Male,57.0
+1990,Eastern Mediterranean,Sudan,Both sexes,55.0
+1990,Eastern Mediterranean,Sudan,Female,57.0
+1990,Eastern Mediterranean,Sudan,Male,54.0
+2013,Americas,Suriname,Both sexes,77.19422
+2013,Americas,Suriname,Female,80.38197
+2013,Americas,Suriname,Male,73.98835
+2012,Americas,Suriname,Both sexes,77.0
+2012,Americas,Suriname,Female,80.0
+2012,Americas,Suriname,Male,75.0
+2000,Americas,Suriname,Both sexes,74.0
+2000,Americas,Suriname,Female,77.0
+2000,Americas,Suriname,Male,71.0
+1990,Americas,Suriname,Both sexes,73.0
+1990,Americas,Suriname,Female,76.0
+1990,Americas,Suriname,Male,71.0
+2013,Africa,Swaziland,Both sexes,53.11098
+2013,Africa,Swaziland,Female,53.24279
+2013,Africa,Swaziland,Male,52.85408
+2012,Africa,Swaziland,Both sexes,54.0
+2012,Africa,Swaziland,Female,55.0
+2012,Africa,Swaziland,Male,52.0
+2000,Africa,Swaziland,Both sexes,48.0
+2000,Africa,Swaziland,Female,49.0
+2000,Africa,Swaziland,Male,48.0
+1990,Africa,Swaziland,Both sexes,61.0
+1990,Africa,Swaziland,Female,61.0
+1990,Africa,Swaziland,Male,62.0
+2013,Europe,Sweden,Both sexes,81.80135
+2013,Europe,Sweden,Female,83.64732
+2013,Europe,Sweden,Male,79.91207
+2012,Europe,Sweden,Both sexes,82.0
+2012,Europe,Sweden,Female,84.0
+2012,Europe,Sweden,Male,80.0
+2000,Europe,Sweden,Both sexes,80.0
+2000,Europe,Sweden,Female,82.0
+2000,Europe,Sweden,Male,78.0
+1990,Europe,Sweden,Both sexes,78.0
+1990,Europe,Sweden,Female,81.0
+1990,Europe,Sweden,Male,75.0
+2013,Europe,Switzerland,Both sexes,83.13744
+2013,Europe,Switzerland,Female,85.2635
+2013,Europe,Switzerland,Male,80.84637
+2012,Europe,Switzerland,Both sexes,83.0
+2012,Europe,Switzerland,Female,85.0
+2012,Europe,Switzerland,Male,81.0
+2000,Europe,Switzerland,Both sexes,80.0
+2000,Europe,Switzerland,Female,83.0
+2000,Europe,Switzerland,Male,77.0
+1990,Europe,Switzerland,Both sexes,78.0
+1990,Europe,Switzerland,Female,81.0
+1990,Europe,Switzerland,Male,74.0
+2013,Eastern Mediterranean,Syria,Both sexes,75.65637
+2013,Eastern Mediterranean,Syria,Female,78.27429
+2013,Eastern Mediterranean,Syria,Male,73.4167
+2012,Eastern Mediterranean,Syria,Both sexes,68.0
+2012,Eastern Mediterranean,Syria,Female,76.0
+2012,Eastern Mediterranean,Syria,Male,62.0
+2000,Eastern Mediterranean,Syria,Both sexes,73.0
+2000,Eastern Mediterranean,Syria,Female,75.0
+2000,Eastern Mediterranean,Syria,Male,72.0
+1990,Eastern Mediterranean,Syria,Both sexes,70.0
+1990,Eastern Mediterranean,Syria,Female,71.0
+1990,Eastern Mediterranean,Syria,Male,69.0
+2013,Europe,Tajikistan,Both sexes,68.58981
+2013,Europe,Tajikistan,Female,69.51283
+2013,Europe,Tajikistan,Male,67.69605
+2012,Europe,Tajikistan,Both sexes,68.0
+2012,Europe,Tajikistan,Female,69.0
+2012,Europe,Tajikistan,Male,67.0
+2000,Europe,Tajikistan,Both sexes,64.0
+2000,Europe,Tajikistan,Female,65.0
+2000,Europe,Tajikistan,Male,63.0
+1990,Europe,Tajikistan,Both sexes,64.0
+1990,Europe,Tajikistan,Female,65.0
+1990,Europe,Tajikistan,Male,62.0
+2013,South_East Asia,Thailand,Both sexes,75.00789
+2013,South_East Asia,Thailand,Female,78.78031
+2013,South_East Asia,Thailand,Male,71.48052
+2012,South_East Asia,Thailand,Both sexes,75.0
+2012,South_East Asia,Thailand,Female,79.0
+2012,South_East Asia,Thailand,Male,71.0
+2000,South_East Asia,Thailand,Both sexes,70.0
+2000,South_East Asia,Thailand,Female,75.0
+2000,South_East Asia,Thailand,Male,66.0
+1990,South_East Asia,Thailand,Both sexes,69.0
+1990,South_East Asia,Thailand,Female,72.0
+1990,South_East Asia,Thailand,Male,66.0
+2013,Europe,Macedonia,Both sexes,75.71539
+2013,Europe,Macedonia,Female,77.82406
+2013,Europe,Macedonia,Male,73.6687
+2012,Europe,Macedonia,Both sexes,76.0
+2012,Europe,Macedonia,Female,78.0
+2012,Europe,Macedonia,Male,73.0
+2000,Europe,Macedonia,Both sexes,73.0
+2000,Europe,Macedonia,Female,76.0
+2000,Europe,Macedonia,Male,71.0
+1990,Europe,Macedonia,Both sexes,72.0
+1990,Europe,Macedonia,Female,75.0
+1990,Europe,Macedonia,Male,70.0
+2013,South_East Asia,Timor_Leste,Both sexes,66.89677
+2013,South_East Asia,Timor_Leste,Female,68.53944
+2013,South_East Asia,Timor_Leste,Male,65.29949
+2012,South_East Asia,Timor_Leste,Both sexes,66.0
+2012,South_East Asia,Timor_Leste,Female,68.0
+2012,South_East Asia,Timor_Leste,Male,65.0
+2000,South_East Asia,Timor_Leste,Both sexes,59.0
+2000,South_East Asia,Timor_Leste,Female,60.0
+2000,South_East Asia,Timor_Leste,Male,58.0
+1990,South_East Asia,Timor_Leste,Both sexes,50.0
+1990,South_East Asia,Timor_Leste,Female,51.0
+1990,South_East Asia,Timor_Leste,Male,48.0
+2013,Africa,Togo,Both sexes,58.42831
+2013,Africa,Togo,Female,59.72416
+2013,Africa,Togo,Male,57.08812
+2012,Africa,Togo,Both sexes,58.0
+2012,Africa,Togo,Female,59.0
+2012,Africa,Togo,Male,57.0
+2000,Africa,Togo,Both sexes,55.0
+2000,Africa,Togo,Female,56.0
+2000,Africa,Togo,Male,54.0
+1990,Africa,Togo,Both sexes,55.0
+1990,Africa,Togo,Female,57.0
+1990,Africa,Togo,Male,54.0
+2013,Western Pacific,Tonga,Both sexes,71.48373
+2013,Western Pacific,Tonga,Female,69.56326
+2013,Western Pacific,Tonga,Male,73.76161
+2012,Western Pacific,Tonga,Both sexes,71.0
+2012,Western Pacific,Tonga,Female,69.0
+2012,Western Pacific,Tonga,Male,74.0
+2000,Western Pacific,Tonga,Both sexes,69.0
+2000,Western Pacific,Tonga,Female,71.0
+2000,Western Pacific,Tonga,Male,68.0
+1990,Western Pacific,Tonga,Both sexes,68.0
+1990,Western Pacific,Tonga,Female,74.0
+1990,Western Pacific,Tonga,Male,64.0
+2013,Americas,Trinidad & Tobago,Both sexes,70.53188
+2013,Americas,Trinidad & Tobago,Female,74.24511
+2013,Americas,Trinidad & Tobago,Male,67.14043
+2012,Americas,Trinidad & Tobago,Both sexes,70.0
+2012,Americas,Trinidad & Tobago,Female,74.0
+2012,Americas,Trinidad & Tobago,Male,67.0
+2000,Americas,Trinidad & Tobago,Both sexes,69.0
+2000,Americas,Trinidad & Tobago,Female,73.0
+2000,Americas,Trinidad & Tobago,Male,66.0
+1990,Americas,Trinidad & Tobago,Both sexes,68.0
+1990,Americas,Trinidad & Tobago,Female,71.0
+1990,Americas,Trinidad & Tobago,Male,65.0
+2013,Eastern Mediterranean,Tunisia,Both sexes,76.07588
+2013,Eastern Mediterranean,Tunisia,Female,78.18276
+2013,Eastern Mediterranean,Tunisia,Male,73.99908
+2012,Eastern Mediterranean,Tunisia,Both sexes,76.0
+2012,Eastern Mediterranean,Tunisia,Female,78.0
+2012,Eastern Mediterranean,Tunisia,Male,74.0
+2000,Eastern Mediterranean,Tunisia,Both sexes,73.0
+2000,Eastern Mediterranean,Tunisia,Female,75.0
+2000,Eastern Mediterranean,Tunisia,Male,71.0
+1990,Eastern Mediterranean,Tunisia,Both sexes,70.0
+1990,Eastern Mediterranean,Tunisia,Female,72.0
+1990,Eastern Mediterranean,Tunisia,Male,69.0
+2013,Europe,Turkey,Both sexes,75.38882
+2013,Europe,Turkey,Female,78.7206
+2013,Europe,Turkey,Male,72.04675
+2012,Europe,Turkey,Both sexes,75.0
+2012,Europe,Turkey,Female,78.0
+2012,Europe,Turkey,Male,72.0
+2000,Europe,Turkey,Both sexes,70.0
+2000,Europe,Turkey,Female,74.0
+2000,Europe,Turkey,Male,67.0
+1990,Europe,Turkey,Both sexes,65.0
+1990,Europe,Turkey,Female,68.0
+1990,Europe,Turkey,Male,62.0
+2013,Europe,Turkmenistan,Both sexes,63.57362
+2013,Europe,Turkmenistan,Female,67.5285
+2013,Europe,Turkmenistan,Male,59.82973
+2012,Europe,Turkmenistan,Both sexes,63.0
+2012,Europe,Turkmenistan,Female,67.0
+2012,Europe,Turkmenistan,Male,60.0
+2000,Europe,Turkmenistan,Both sexes,62.0
+2000,Europe,Turkmenistan,Female,65.0
+2000,Europe,Turkmenistan,Male,58.0
+1990,Europe,Turkmenistan,Both sexes,62.0
+1990,Europe,Turkmenistan,Female,65.0
+1990,Europe,Turkmenistan,Male,59.0
+2013,Western Pacific,Tuvalu,Both sexes,67.98926
+2013,Western Pacific,Tuvalu,Female,70.0024
+2013,Western Pacific,Tuvalu,Male,66.21911
+2012,Western Pacific,Tuvalu,Both sexes,68.0
+2012,Western Pacific,Tuvalu,Female,70.0
+2012,Western Pacific,Tuvalu,Male,66.0
+2000,Western Pacific,Tuvalu,Both sexes,64.0
+2000,Western Pacific,Tuvalu,Female,66.0
+2000,Western Pacific,Tuvalu,Male,62.0
+1990,Western Pacific,Tuvalu,Both sexes,62.0
+1990,Western Pacific,Tuvalu,Female,64.0
+1990,Western Pacific,Tuvalu,Male,59.0
+2013,Africa,Uganda,Both sexes,58.54477
+2013,Africa,Uganda,Female,60.5443
+2013,Africa,Uganda,Male,56.66302
+2012,Africa,Uganda,Both sexes,57.0
+2012,Africa,Uganda,Female,58.0
+2012,Africa,Uganda,Male,56.0
+2000,Africa,Uganda,Both sexes,45.0
+2000,Africa,Uganda,Female,46.0
+2000,Africa,Uganda,Male,44.0
+1990,Africa,Uganda,Both sexes,47.0
+1990,Africa,Uganda,Female,49.0
+1990,Africa,Uganda,Male,44.0
+2013,Europe,Ukraine,Both sexes,70.85694
+2013,Europe,Ukraine,Female,75.6748
+2013,Europe,Ukraine,Male,65.82805
+2012,Europe,Ukraine,Both sexes,71.0
+2012,Europe,Ukraine,Female,76.0
+2012,Europe,Ukraine,Male,66.0
+2000,Europe,Ukraine,Both sexes,68.0
+2000,Europe,Ukraine,Female,73.0
+2000,Europe,Ukraine,Male,62.0
+1990,Europe,Ukraine,Both sexes,70.0
+1990,Europe,Ukraine,Female,75.0
+1990,Europe,Ukraine,Male,65.0
+2013,Eastern Mediterranean,United Arab Emirates,Both sexes,76.63969
+2013,Eastern Mediterranean,United Arab Emirates,Female,77.96372
+2013,Eastern Mediterranean,United Arab Emirates,Male,75.93814
+2012,Eastern Mediterranean,United Arab Emirates,Both sexes,76.0
+2012,Eastern Mediterranean,United Arab Emirates,Female,78.0
+2012,Eastern Mediterranean,United Arab Emirates,Male,76.0
+2000,Eastern Mediterranean,United Arab Emirates,Both sexes,74.0
+2000,Eastern Mediterranean,United Arab Emirates,Female,75.0
+2000,Eastern Mediterranean,United Arab Emirates,Male,73.0
+1990,Eastern Mediterranean,United Arab Emirates,Both sexes,72.0
+1990,Eastern Mediterranean,United Arab Emirates,Female,73.0
+1990,Eastern Mediterranean,United Arab Emirates,Male,71.0
+2013,Europe,United Kingdom,Both sexes,81.00252
+2013,Europe,United Kingdom,Female,82.96336
+2013,Europe,United Kingdom,Male,78.97408
+2012,Europe,United Kingdom,Both sexes,81.0
+2012,Europe,United Kingdom,Female,83.0
+2012,Europe,United Kingdom,Male,79.0
+2000,Europe,United Kingdom,Both sexes,78.0
+2000,Europe,United Kingdom,Female,80.0
+2000,Europe,United Kingdom,Male,76.0
+1990,Europe,United Kingdom,Both sexes,76.0
+1990,Europe,United Kingdom,Female,79.0
+1990,Europe,United Kingdom,Male,73.0
+2013,Africa,Tanzania,Both sexes,62.68134
+2013,Africa,Tanzania,Female,64.63322
+2013,Africa,Tanzania,Male,60.78574
+2012,Africa,Tanzania,Both sexes,61.0
+2012,Africa,Tanzania,Female,63.0
+2012,Africa,Tanzania,Male,59.0
+2000,Africa,Tanzania,Both sexes,50.0
+2000,Africa,Tanzania,Female,51.0
+2000,Africa,Tanzania,Male,50.0
+1990,Africa,Tanzania,Both sexes,51.0
+1990,Africa,Tanzania,Female,52.0
+1990,Africa,Tanzania,Male,49.0
+2013,Americas,USA,Both sexes,78.7946
+2013,Americas,USA,Female,81.13326
+2013,Americas,USA,Male,76.39799
+2012,Americas,USA,Both sexes,79.0
+2012,Americas,USA,Female,81.0
+2012,Americas,USA,Male,76.0
+2000,Americas,USA,Both sexes,77.0
+2000,Americas,USA,Female,80.0
+2000,Americas,USA,Male,74.0
+1990,Americas,USA,Both sexes,75.0
+1990,Americas,USA,Female,79.0
+1990,Americas,USA,Male,72.0
+2013,Americas,Uruguay,Both sexes,77.43123
+2013,Americas,Uruguay,Female,81.05434
+2013,Americas,Uruguay,Male,73.64381
+2012,Americas,Uruguay,Both sexes,77.0
+2012,Americas,Uruguay,Female,81.0
+2012,Americas,Uruguay,Male,73.0
+2000,Americas,Uruguay,Both sexes,75.0
+2000,Americas,Uruguay,Female,79.0
+2000,Americas,Uruguay,Male,71.0
+1990,Americas,Uruguay,Both sexes,73.0
+1990,Americas,Uruguay,Female,76.0
+1990,Americas,Uruguay,Male,69.0
+2013,Europe,Uzbekistan,Both sexes,69.20962
+2013,Europe,Uzbekistan,Female,71.77364
+2013,Europe,Uzbekistan,Male,66.68939
+2012,Europe,Uzbekistan,Both sexes,69.0
+2012,Europe,Uzbekistan,Female,72.0
+2012,Europe,Uzbekistan,Male,67.0
+2000,Europe,Uzbekistan,Both sexes,66.0
+2000,Europe,Uzbekistan,Female,69.0
+2000,Europe,Uzbekistan,Male,63.0
+1990,Europe,Uzbekistan,Both sexes,67.0
+1990,Europe,Uzbekistan,Female,70.0
+1990,Europe,Uzbekistan,Male,63.0
+2013,Western Pacific,Vanuatu,Both sexes,72.2857
+2013,Western Pacific,Vanuatu,Female,74.27451
+2013,Western Pacific,Vanuatu,Male,70.5041
+2012,Western Pacific,Vanuatu,Both sexes,72.0
+2012,Western Pacific,Vanuatu,Female,74.0
+2012,Western Pacific,Vanuatu,Male,70.0
+2000,Western Pacific,Vanuatu,Both sexes,69.0
+2000,Western Pacific,Vanuatu,Female,71.0
+2000,Western Pacific,Vanuatu,Male,67.0
+1990,Western Pacific,Vanuatu,Both sexes,66.0
+1990,Western Pacific,Vanuatu,Female,67.0
+1990,Western Pacific,Vanuatu,Male,64.0
+2013,Americas,Venezuela,Both sexes,75.92431
+2013,Americas,Venezuela,Female,79.99253
+2013,Americas,Venezuela,Male,72.13981
+2012,Americas,Venezuela,Both sexes,76.0
+2012,Americas,Venezuela,Female,80.0
+2012,Americas,Venezuela,Male,72.0
+2000,Americas,Venezuela,Both sexes,74.0
+2000,Americas,Venezuela,Female,77.0
+2000,Americas,Venezuela,Male,71.0
+1990,Americas,Venezuela,Both sexes,72.0
+1990,Americas,Venezuela,Female,74.0
+1990,Americas,Venezuela,Male,70.0
+2013,Western Pacific,Vietnam,Both sexes,75.68709
+2013,Western Pacific,Vietnam,Female,80.39753
+2013,Western Pacific,Vietnam,Male,70.85885
+2012,Western Pacific,Vietnam,Both sexes,76.0
+2012,Western Pacific,Vietnam,Female,80.0
+2012,Western Pacific,Vietnam,Male,71.0
+2000,Western Pacific,Vietnam,Both sexes,73.0
+2000,Western Pacific,Vietnam,Female,78.0
+2000,Western Pacific,Vietnam,Male,69.0
+1990,Western Pacific,Vietnam,Both sexes,70.0
+1990,Western Pacific,Vietnam,Female,75.0
+1990,Western Pacific,Vietnam,Male,66.0
+2013,Eastern Mediterranean,Yemen,Both sexes,64.25762
+2013,Eastern Mediterranean,Yemen,Female,65.70657
+2013,Eastern Mediterranean,Yemen,Male,62.84041
+2012,Eastern Mediterranean,Yemen,Both sexes,64.0
+2012,Eastern Mediterranean,Yemen,Female,65.0
+2012,Eastern Mediterranean,Yemen,Male,62.0
+2000,Eastern Mediterranean,Yemen,Both sexes,61.0
+2000,Eastern Mediterranean,Yemen,Female,62.0
+2000,Eastern Mediterranean,Yemen,Male,59.0
+1990,Eastern Mediterranean,Yemen,Both sexes,58.0
+1990,Eastern Mediterranean,Yemen,Female,59.0
+1990,Eastern Mediterranean,Yemen,Male,56.0
+2013,Africa,Zambia,Both sexes,58.4628
+2013,Africa,Zambia,Female,60.01617
+2013,Africa,Zambia,Male,56.95942
+2012,Africa,Zambia,Both sexes,57.0
+2012,Africa,Zambia,Female,58.0
+2012,Africa,Zambia,Male,55.0
+2000,Africa,Zambia,Both sexes,41.0
+2000,Africa,Zambia,Female,43.0
+2000,Africa,Zambia,Male,40.0
+1990,Africa,Zambia,Both sexes,43.0
+1990,Africa,Zambia,Female,47.0
+1990,Africa,Zambia,Male,40.0
+2013,Africa,Zimbabwe,Both sexes,58.72677
+2013,Africa,Zimbabwe,Female,61.33747
+2013,Africa,Zimbabwe,Male,56.17709
+2012,Africa,Zimbabwe,Both sexes,58.0
+2012,Africa,Zimbabwe,Female,60.0
+2012,Africa,Zimbabwe,Male,56.0
+2000,Africa,Zimbabwe,Both sexes,42.0
+2000,Africa,Zimbabwe,Female,42.0
+2000,Africa,Zimbabwe,Male,42.0
+1990,Africa,Zimbabwe,Both sexes,62.0
+1990,Africa,Zimbabwe,Female,64.0
+1990,Africa,Zimbabwe,Male,60.0
